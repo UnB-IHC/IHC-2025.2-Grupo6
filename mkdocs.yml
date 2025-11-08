@@ -1,0 +1,47 @@
+site_name: Manual de Acessibilidade Digital
+site_description: Guia de acessibilidade digital
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+
+  palette:
+    - scheme: light
+      primary: orange
+      accent: orange
+    - scheme: dark
+      primary: orange
+      accent: orange
+
+nav:
+  - Início: index.md
+  - Manual de Acessibilidade:
+    - Introdução: manual/introducao.md
+  - Recursos: recursos.md
+  - Sobre: sobre.md
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed
+  - pymdownx.emoji
+  - toc:
+      permalink: true
+
+extra_css:
+  - css/custom.css
