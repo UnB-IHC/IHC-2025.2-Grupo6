@@ -28,7 +28,6 @@ theme:
 nav:
   - Início: index.md
   - Manual de Acessibilidade: Manual_Acessibilidade.md
-    - Introdução: manual/introducao.md
   - Recursos: Recursos.md
   - Sobre: Sobre.md
 
