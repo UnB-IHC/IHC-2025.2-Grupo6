@@ -27,10 +27,10 @@ theme:
 
 nav:
   - Início: index.md
-  - Manual de Acessibilidade:
+  - Manual de Acessibilidade: Manual_Acessibilidade.md
     - Introdução: manual/introducao.md
-  - Recursos: recursos.md
-  - Sobre: sobre.md
+  - Recursos: Recursos.md
+  - Sobre: Sobre.md
 
 markdown_extensions:
   - pymdownx.highlight
