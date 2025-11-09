@@ -21,3 +21,9 @@ Bem-vindo ao manual completo de acessibilidade para desenvolvimento web!
 4. **Robusto** - O conteúdo deve ser robusto o suficiente para funcionar com diferentes tecnologias
 
 ---
+
+##  Histórico de Versão
+ 
+| Versão | Data | Descrição | Autor(es)| Revisor(es) |
+|--------|------|-----------|-----------|-------------|
+| 1.0 | 08/11/2025 | Criação do Gitpages | [Isabela Choukaira](https://github.com/isabellachoukaira) | [ Giovana Fontes ](https://github.com/GiovanaFontesS) |
