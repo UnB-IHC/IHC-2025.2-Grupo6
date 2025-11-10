@@ -3,31 +3,36 @@ site_description: Guia de acessibilidade digital
 
 theme:
   name: material
+  language: pt
   features:
-    - navigation.instant
-    - navigation.tracking
     - navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
     - navigation.top
-    - navigation.footer
-    - toc.follow
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
 
   palette:
-    - scheme: light
+    - scheme: default
       primary: orange
-      accent: orange
-    - scheme: dark
+      accent: deep orange
+      toggle:
+        icon: material/lightbulb
+        name: Modo escuro
+    #tema escuro
+    - scheme: slate
       primary: orange
-      accent: orange
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Ativar modo claro
 
 nav:
   - Início: index.md
-  - Manual de Acessibilidade: Manual_Acessibilidade.md
+  - Manual de Acessibilidade: 
+    - Introdução: "manual/introducao.md"
+    - Desenvolvimento Web: "manual/devWeb.md"
+    - Design: "manual/design.md"
+    - Geração de Conteúdo: "manual/geracaoCont.md"
+    - Gestão de Projeto: "manual/gestaoProj.md"
   - Recursos: Recursos.md
   - Sobre: Sobre.md
 
@@ -39,8 +44,10 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.tabbed
   - pymdownx.emoji
-  - toc:
-      permalink: true
+  
 
 extra_css:
-  - css/custom.css
+- stylesheets/custom.css
+
+extra_javascript:
+  - js/graficos.js
