@@ -1,0 +1,16 @@
+{
+    "name": "A11Y Vision",
+    "description": "A simple extension for accessibility analysis with a focus on design.",
+    "Version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "128": "icons/acessibilidade.png"
+        }
+    },
+    "icons": {
+        "128": "icons/acessibilidade.png"
+    }
+}
