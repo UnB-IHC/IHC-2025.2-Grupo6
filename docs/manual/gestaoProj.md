@@ -1,0 +1,23 @@
+<p style="text-align: justify;">A etapa de <b>Gestão de Projeto</b> busca compreender como a acessibilidade digital é incorporada no planejamento, desenvolvimento e manutenção do site da <a href="https://www.voegol.com.br/" target="_blank"><b>GOL Linhas Aéreas</b></a>. Essa dimensão envolve a forma como os gestores e equipes técnicas consideram as necessidades de diferentes públicos desde a concepção do projeto, abrangendo a definição de requisitos, recursos e cronogramas voltados à inclusão digital.</p> <p style="text-align: justify;">Incorporar acessibilidade desde as fases iniciais de um projeto é essencial para reduzir custos, evitar retrabalho e assegurar a conformidade com legislações vigentes, como o <b>Decreto nº 9.296/2018</b> e a <b>Lei Brasileira de Inclusão (Lei nº 13.146/2015)</b>. Além disso, melhora a experiência do usuário e amplia o alcance do serviço — fator especialmente relevante em um site de grande tráfego como o da GOL, que atende pessoas com diferentes perfis, idades e limitações.</p>
+
+## Gestão Técnica
+
+<p style="text-align: justify;">Durante o planejamento de um portal como o da GOL, é importante considerar a criação de <b>personas diversas</b>, representando usuários com deficiências visuais, auditivas, físicas, cognitivas e limitações temporárias. Isso auxilia na definição de requisitos funcionais e não funcionais que garantam que o conteúdo e as funcionalidades — como compra de passagens, check-in online, consulta de voos e atendimento ao cliente — sejam acessíveis a todos.</p> <p style="text-align: justify;">Por exemplo, a elaboração de personas pode incluir: pessoas com <b>baixa visão</b> que utilizam leitores de tela, <b>usuários com mobilidade reduzida</b> que dependem da navegação por teclado ou dispositivos de apoio, e <b>pessoas idosas</b> que necessitam de contrastes visuais adequados e textos legíveis. Essa abordagem fortalece a usabilidade e reduz barreiras de interação.</p>
+
+## Conscientização
+
+<p style="text-align: justify;">Outro aspecto fundamental é a <b>conscientização da equipe</b> responsável pelo site sobre a importância da acessibilidade digital. No contexto da GOL, isso significa garantir que os desenvolvedores, designers e gestores compreendam os <b>direitos das pessoas com deficiência</b> e os <b>benefícios mercadológicos</b> de um site inclusivo. A acessibilidade, além de um dever ético e legal, é também uma oportunidade de negócio — visto que amplia o público-alvo e fortalece a imagem institucional da empresa como socialmente responsável.</p> <p style="text-align: justify;">Portanto, é essencial que a equipe tenha conhecimento sobre as <b>diretrizes da WCAG (níveis A e AA)</b>, sobre o número de pessoas com deficiência no Brasil e sobre o impacto que a falta de acessibilidade pode causar na experiência do usuário. A promoção de treinamentos e a inclusão do tema em reuniões de planejamento contribuem diretamente para um desenvolvimento mais consciente e empático.</p>
+
+## Planejamento
+
+<p style="text-align: justify;">Por fim, a etapa de <b>planejamento</b> deve contemplar atividades, cronogramas e responsabilidades específicas voltadas à implementação da acessibilidade no site da GOL. Isso inclui a definição de recursos humanos e tecnológicos, o uso de ferramentas de validação (como o WAVE e o axe DevTools) e a previsão de revisões contínuas para garantir a conformidade com as normas de acessibilidade digital.</p> <p style="text-align: justify;">Ao integrar esses elementos ao ciclo de vida do projeto, a GOL reforça seu compromisso com a inclusão, assegurando que todos os usuários — independentemente de suas habilidades — consigam acessar informações, realizar reservas e utilizar os serviços digitais de forma autônoma, segura e eficiente.</p>
+
+## Referências Bibliográficas
+
+<p style="text-align: justify;">DINIZ, V.; FERRAZ, R.; NASCIMENTO, C. M.; CREDIDIO, R. <b>Guia de Boas Práticas para Acessibilidade Digital</b>. Programa de Cooperação entre Reino Unido e Brasil em Acesso Digital, 2023. Disponível em: <a href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf" target="_blank">https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf</a>. Acesso em: 9 mai. 2024.</p>
+
+##  Histórico de Versão
+ 
+| Versão | Data | Descrição | Autor(es)| Revisor(es) |
+|--------|------|-----------|-----------|-------------|
+| 1.0 | 10/11/2025 | Criação da pagina | [ Giovana Fontes ](https://github.com/GiovanaFontesS)  | [Isabella Choukaira](https://github.com/isabellachoukaira) |
