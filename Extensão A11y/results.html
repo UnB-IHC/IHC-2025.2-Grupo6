@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Relatório Completo - A11Y Vision</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .result-section {
+            margin: 20px 0;
+            padding: 15px;
+            border-radius: 5px;
+        }
+        .pass {
+            background-color: #d4edda;
+            border-left: 4px solid #28a745;
+        }
+        .fail {
+            background-color: #f8d7da;
+            border-left: 4px solid #dc3545;
+        }
+        .warning {
+            background-color: #fff3cd;
+            border-left: 4px solid #ffc107;
+        }
+        .criteria-list {
+            list-style: none;
+            padding: 0;
+        }
+        .criteria-list li {
+            padding: 8px;
+            margin: 5px 0;
+            border-radius: 3px;
+        }
+        .back-button {
+            background: #6c757d;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        .back-button:hover {
+            background: #5a6268;
+        }
+        .page-info {
+            background: #e9ecef;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Relatório Completo de Acessibilidade</h1>
+        
+        <div class="page-info">
+            <h3>Informações da Página Analisada</h3>
+            <p id="pageDetails">Carregando...</p>
+        </div>
+
+        <div class="result-section" id="contrastResults">
+            <h3>Contraste de Cores</h3>
+            <ul class="criteria-list" id="contrastList">
+                <li>Carregando verificações...</li>
+            </ul>
+        </div>
+
+        <div class="result-section" id="structureResults">
+            <h3>Estrutura Semântica</h3>
+            <ul class="criteria-list" id="structureList">
+                <li>Carregando verificações...</li>
+            </ul>
+        </div>
+
+        <div class="result-section" id="navigationResults">
+            <h3>Navegação e Interação</h3>
+            <ul class="criteria-list" id="navigationList">
+                <li>Carregando verificações...</li>
+            </ul>
+        </div>
+
+        <div class="result-section" id="contentResults">
+            <h3>Conteúdo e Formulários</h3>
+            <ul class="criteria-list" id="contentList">
+                <li>Carregando verificações...</li>
+            </ul>
+        </div>
+
+        <button class="back-button" onclick="window.close()">Voltar para a Análise</button>
+    </div>
+
+    <script src="results.js"></script>
+</body>
+</html>
