@@ -1,15 +1,16 @@
+# Desenvolvimento
 
 ## Grafico
 <div class="progress-sidebar" style="display: flex; flex-direction: row;">
-    <div>
+    <div style="text-align: center;">
         <h3>Nível A</h3>
         <canvas id="graficoAdev" width="200" height="200" style="width: 200px; height: 200px;"></canvas>
     </div>
-    <div>
+    <div style="text-align: center;">
         <h3>Nível AA</h3>
         <canvas id="graficoAAdev" width="200" height="200" style="width: 200px; height: 200px;"></canvas>
     </div>
-    <div>
+    <div style="text-align: center;">
         <h3>Nível AAA</h3>
         <canvas id="graficoAAAdev" width="200" height="200" style="width: 200px; height: 200px;"></canvas>
     </div>
@@ -81,7 +82,6 @@ Os componentes que têm a mesma funcionalidade em um conjunto de páginas web
 Toda funcionalidade operada por movimento de arrastar pode ser operada também por um ponteiro único sem movimento de arrastar (AA). <a href="#">[WCAG 2.5.7]</a>
 </label>
 
-
 <label class="criterio">
 <input type="checkbox" class="criterio" data-level="AAdev">
   O tamanho do alvo para entradas de ponteiro é pelo menos 24 por 24 pixels CSS (AA). <a href="#">[WCAG 2.5.8]</a>
@@ -90,6 +90,49 @@ Toda funcionalidade operada por movimento de arrastar pode ser operada também p
 <label class="criterio">
 <input type="checkbox" class="criterio" data-level="AAAdev">
   Toda mudança de contexto é iniciada apenas a pedido do usuário ou pode ser desativada (AAA). <a href="#">[WCAG 3.2.5]</a>
+</label>
+
+
+## Navegação por teclado: <small> Baseado no capítulo 6 do Guia UK: "Permite navegação completa por teclado"</small>
+
+<label class="criterio">
+<input type="checkbox" class="criterio" data-level="Adev">
+  Toda a funcionalidade do conteúdo é operável através de uma interface de teclado (A). <a href="#">[WCAG 2.1.1]</a>
+</label>
+
+<label class="criterio">
+<input type="checkbox" class="criterio" data-level="Adev">
+  Elementos focáveis aparecem em ordem sequencial lógica e intuitiva ao receber foco (A). <a href="#NBR">[NBR 5.1.4]</a> <a href="#1">[WCAG 2.4.3]</a>
+</label>
+
+<label class="criterio">
+<input type="checkbox" class="criterio" data-level="Adev">
+  Não há componentes que bloqueiam, impedem ou interrompem a navegação por teclado (A). <a href="#NBR">[NBR 5.1.6]</a> <a href="#1">[WCAG 2.1.2]</a>
+</label>
+
+<label class="criterio">
+<input type="checkbox" class="criterio" data-level="Adev">
+  Há um mecanismo simples para desativar ou remapear o atalho de teclado sem tecla modificadora (A). <a href="#">[WCAG 2.1.4]</a>
+</label>
+
+<label class="criterio">
+<input type="checkbox" class="criterio" data-level="AAdev">
+ Todos os elementos focáveis possuem um indicador de foco visível (AA). <a href="#NBR">[NBR 5.1.1]</a> <a href="#">[WCAG 2.4.7]</a> 
+</label>
+
+<label class="criterio">
+<input type="checkbox" class="criterio" data-level="AAAdev">
+  Todos os elementos focáveis estão completamente visíveis quando recebem foco (AAA). <a href="#NBR">[NBR 5.1.2]</a>
+</label>
+
+<label class="criterio">
+<input type="checkbox" class="criterio" data-level="AAAdev">
+  Todas as funcionalidades da página são acessíveis com o teclado, sem exceção (AAA). <a href="#NBR">[NBR 5.1.2]</a>
+</label>
+
+<label class="criterio">
+<input type="checkbox" class="criterio" data-level="AAAdev">
+  Não há funcionalidade na página que restringe o uso de algum mecanismo de entrada disponível (AAA). <a href="#NBR">[NBR 5.1.14]</a> <a href="#">[WCAG 2.5.6]</a> 
 </label>
 
 # Referências Bibliograficas
