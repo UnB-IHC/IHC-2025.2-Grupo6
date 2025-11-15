@@ -24,76 +24,84 @@ Planejar desde o começo reduz custos, evita retrabalho, aumenta a qualidade ger
 
 <!-- CHECKLIST DE GESTÃO DE PROJETO -->
 
-<h3>Gestão Técnica</h3>
+<h3>1. Gestão Técnica</h3>
+<p>Durante a fase inicial, é essencial considerar diferentes perfis de usuários para garantir que requisitos de acessibilidade sejam contemplados desde o início.</p>
 
 <label class="criterio">
-    <input type="checkbox" data-prefix="gestao">
-    Personas incluem usuários com deficiência visual.
-    [<a href="#ref1">Guia UK-BR</a>]
+  <input type="checkbox" data-group="gestao">
+  Personas representam pessoas com deficiência visual.
+  [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-prefix="gestao">
-    Personas incluem usuários com deficiência física.
-    [<a href="#ref1">Guia UK-BR</a>]
+  <input type="checkbox" data-group="gestao">
+  Personas representam usuários com deficiência física ou limitações motoras.
+  [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-prefix="gestao">
-    Personas incluem usuários com deficiência auditiva.
-    [<a href="#ref1">Guia UK-BR</a>]
+  <input type="checkbox" data-group="gestao">
+  Personas incluem usuários com deficiência auditiva.
+  [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-prefix="gestao">
-    Personas contemplam perfis neurodiversos.
-    [<a href="#ref1">Guia UK-BR</a>]
-</label>
-
-<hr>
-
-<h3>Conscientização</h3>
-
-<label class="criterio">
-    <input type="checkbox" data-prefix="gestao">
-    Equipe conhece estatísticas globais de PCDs.
-    [<a href="#ref1">Guia UK-BR</a>]
+  <input type="checkbox" data-group="gestao">
+  Personas contemplam perfis neurodiversos (autistas, TDAH, dislexia).
+  [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-prefix="gestao">
-    Equipe conhece dados nacionais (IBGE).
-    [<a href="#ref1">Guia UK-BR</a>]
-</label>
-
-<label class="criterio">
-    <input type="checkbox" data-prefix="gestao">
-    Equipe entende tipos de deficiência.
-    [<a href="#ref1">Guia UK-BR</a>]
+  <input type="checkbox" data-group="gestao">
+  A equipe conhece e aplica WCAG 2.2 (níveis A e AA).
+  [<a href="#ref3">WCAG 2.2</a>]
 </label>
 
 <hr>
 
-<h3>Planejamento</h3>
+<h3>2. Conscientização</h3>
+<p>O time deve compreender a diversidade de usuários, estatísticas de acessibilidade, legislações e impacto social.</p>
 
 <label class="criterio">
-    <input type="checkbox" data-prefix="gestao">
-    Cronograma inclui atividades de acessibilidade.
-    [<a href="#ref1">Guia UK-BR</a>]
+  <input type="checkbox" data-group="gestao">
+  A equipe conhece estatísticas globais e nacionais de pessoas com deficiência.
+  [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-prefix="gestao">
-    Recursos definidos: equipe, ferramentas, capacitações.
-    [<a href="#ref1">Guia UK-BR</a>]
+  <input type="checkbox" data-group="gestao">
+  O time entende a diferença entre deficiências congênitas, adquiridas, hereditárias e temporárias.
+  [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-prefix="gestao">
-    Planejamento considera necessidades de diferentes deficiências.
-    [<a href="#ref1">Guia UK-BR</a>]
+  <input type="checkbox" data-group="gestao">
+  A equipe conhece direitos das pessoas com deficiência e legislações aplicáveis.
+  [<a href="#ref4">ONU</a>] [<a href="#ref5">Portaria 3/2007</a>]
 </label>
 
+<hr>
+
+<h3>3. Planejamento</h3>
+<p>O planejamento deve incluir atividades de acessibilidade, recursos e prazos bem definidos.</p>
+
+<label class="criterio">
+  <input type="checkbox" data-group="gestao">
+  O cronograma do projeto inclui atividades específicas de acessibilidade.  
+  [<a href="#ref1">Guia UK-BR</a>]
+</label>
+
+<label class="criterio">
+  <input type="checkbox" data-group="gestao">
+  Há definição de recursos (pessoas, ferramentas e treinamentos) voltados à acessibilidade.
+  [<a href="#ref1">Guia UK-BR</a>]
+</label>
+
+<label class="criterio">
+  <input type="checkbox" data-group="gestao">
+  O planejamento considera necessidades de diferentes tipos de deficiência.
+  [<a href="#ref1">Guia UK-BR</a>]
+</label>
 
 <hr><hr>
 
