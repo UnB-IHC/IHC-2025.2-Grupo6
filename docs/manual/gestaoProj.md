@@ -14,20 +14,10 @@ Planejar desde o começo reduz custos, evita retrabalho, aumenta a qualidade ger
 
 <hr>
 
-<!-- GRÁFICOS -->
-<div class="progress-sidebar" style="display: flex; flex-direction: row; gap: 40px; justify-content:center;">
-    <div style="text-align: center;">
-        <h3>Nível A</h3>
-        <canvas id="graficoAgestao" width="200" height="200"></canvas>
-    </div>
-    <div style="text-align: center;">
-        <h3>Nível AA</h3>
-        <canvas id="graficoAAGestao" width="200" height="200"></canvas>
-    </div>
-    <div style="text-align: center;">
-        <h3>Nível AAA</h3>
-        <canvas id="graficoAAAGestao" width="200" height="200"></canvas>
-    </div>
+<!-- GRÁFICO -->
+<div style="text-align:center; margin-bottom: 20px;">
+    <h3>Progresso Geral</h3>
+    <canvas id="grafico_gestao" width="220" height="220"></canvas>
 </div>
 
 <hr>
@@ -37,33 +27,27 @@ Planejar desde o começo reduz custos, evita retrabalho, aumenta a qualidade ger
 <h3>Gestão Técnica</h3>
 
 <label class="criterio">
-    <input type="checkbox" data-level="Agestao">
-    Personas incluem usuários com deficiência visual (A). 
+    <input type="checkbox" data-prefix="gestao">
+    Personas incluem usuários com deficiência visual.
     [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-level="Agestao">
-    Personas incluem usuários com deficiência física (A). 
+    <input type="checkbox" data-prefix="gestao">
+    Personas incluem usuários com deficiência física.
     [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-level="Agestao">
-    Personas incluem usuários com deficiência auditiva (A). 
+    <input type="checkbox" data-prefix="gestao">
+    Personas incluem usuários com deficiência auditiva.
     [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-level="Agestao">
-    Personas contemplam perfis neurodiversos (A). 
+    <input type="checkbox" data-prefix="gestao">
+    Personas contemplam perfis neurodiversos.
     [<a href="#ref1">Guia UK-BR</a>]
-</label>
-
-<label class="criterio">
-    <input type="checkbox" data-level="Agestao">
-    A equipe conhece e aplica WCAG níveis A e AA (A). 
-    [<a href="#ref3">WCAG 2.2</a>]
 </label>
 
 <hr>
@@ -71,33 +55,21 @@ Planejar desde o começo reduz custos, evita retrabalho, aumenta a qualidade ger
 <h3>Conscientização</h3>
 
 <label class="criterio">
-    <input type="checkbox" data-level="Agestao">
-    A equipe possui conhecimento sobre estatísticas globais de PCDs (A). 
+    <input type="checkbox" data-prefix="gestao">
+    Equipe conhece estatísticas globais de PCDs.
     [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-level="Agestao">
-    A equipe conhece dados nacionais (IBGE) (A). 
+    <input type="checkbox" data-prefix="gestao">
+    Equipe conhece dados nacionais (IBGE).
     [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-level="Agestao">
-    A equipe entende tipos de deficiência: congênita, adquirida, hereditária ou temporária (A). 
+    <input type="checkbox" data-prefix="gestao">
+    Equipe entende tipos de deficiência.
     [<a href="#ref1">Guia UK-BR</a>]
-</label>
-
-<label class="criterio">
-    <input type="checkbox" data-level="Agestao">
-    A equipe tem conhecimento sobre custos, tempo e impacto de implementar acessibilidade (A). 
-    [<a href="#ref1">Guia UK-BR</a>]
-</label>
-
-<label class="criterio">
-    <input type="checkbox" data-level="Agestao">
-    A equipe conhece legislações aplicáveis (ONU, Portaria 3/2007) (A). 
-    [<a href="#ref4">ONU</a>] [<a href="#ref5">Portaria 3/2007</a>]
 </label>
 
 <hr>
@@ -105,22 +77,23 @@ Planejar desde o começo reduz custos, evita retrabalho, aumenta a qualidade ger
 <h3>Planejamento</h3>
 
 <label class="criterio">
-    <input type="checkbox" data-level="AAgestao">
-    Cronograma considera atividades e responsáveis de acessibilidade (AA). 
+    <input type="checkbox" data-prefix="gestao">
+    Cronograma inclui atividades de acessibilidade.
     [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-level="AAgestao">
-    Recursos definidos (equipe, ferramentas, capacitação) (AA). 
+    <input type="checkbox" data-prefix="gestao">
+    Recursos definidos: equipe, ferramentas, capacitações.
     [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-level="AAgestao">
-    Planejamento considera necessidades de diferentes deficiências (AA). 
+    <input type="checkbox" data-prefix="gestao">
+    Planejamento considera necessidades de diferentes deficiências.
     [<a href="#ref1">Guia UK-BR</a>]
 </label>
+
 
 <hr><hr>
 
