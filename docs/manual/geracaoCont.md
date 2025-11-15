@@ -24,78 +24,106 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 
 <!-- CHECKLIST DE CONTEÚDO -->
 
-<h3>Termos</h3>
+<h3>1. Termos</h3>
+<p>Utilizar terminologia adequada é essencial para respeito e clareza.</p>
 
 <label class="criterio">
-    <input type="checkbox" data-prefix="conteudo">
-    Uso correto do termo “pessoas com deficiência (PCD)”.
-    [<a href="#ref1">Guia UK-BR</a>]
+  <input type="checkbox" data-group="conteudo">
+  Utilização correta do termo “pessoas com deficiência (PCD)”, com especificações quando necessário.
+  [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <hr>
 
-<h3>Textos</h3>
+<h3>2. Textos</h3>
+<p>Conteúdos devem ser diretos, claros e estruturados para facilitar compreensão.</p>
 
 <label class="criterio">
-    <input type="checkbox" data-prefix="conteudo">
-    Linguagem clara e objetiva.
-    [<a href="#ref1">Guia UK-BR</a>]
+  <input type="checkbox" data-group="conteudo">
+  Linguagem clara, objetiva e sem ambiguidades.
+  [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-prefix="conteudo">
-    Frases entre 15 e 20 palavras.
-    [<a href="#ref1">Guia UK-BR</a>]
+  <input type="checkbox" data-group="conteudo">
+  Frases curtas, com média de 15–20 palavras.
+  [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-prefix="conteudo">
-    Termos especiais com marcação adequada.
-    [<a href="#ref2">NBR 17225</a>]
-</label>
-
-<hr>
-
-<h3>Descrição de Imagens</h3>
-
-<label class="criterio">
-    <input type="checkbox" data-prefix="conteudo">
-    Identificação do tipo de imagem.
-    [<a href="#ref1">Guia UK-BR</a>]
+  <input type="checkbox" data-group="conteudo">
+  Uso preferencial de ordem direta (sujeito + verbo + complemento).
+  [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-prefix="conteudo">
-    Descrição clara de ações e elementos.
-    [<a href="#ref1">Guia UK-BR</a>]
-</label>
-
-<label class="criterio">
-    <input type="checkbox" data-prefix="conteudo">
-    Alt-text curto e significativo.
-    [<a href="#ref3">WCAG 2.2</a>]
+  <input type="checkbox" data-group="conteudo">
+  Termos especiais utilizam marcação semântica adequada.
+  [<a href="#ref2">NBR 5.12.8</a>]
 </label>
 
 <hr>
 
-<h3>Áudio e Vídeo</h3>
+<h3>3. Descrição de Imagens</h3>
+<p>Descrições ajudam usuários cegos ou com baixa visão a compreender o conteúdo visual.</p>
 
 <label class="criterio">
-    <input type="checkbox" data-prefix="conteudo">
-    Vídeos incluem descrição breve do ambiente.
-    [<a href="#ref1">Guia UK-BR</a>]
+  <input type="checkbox" data-group="conteudo">
+  Identificação do tipo e conteúdo principal da imagem.
+  [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-prefix="conteudo">
-    Legendas incluídas (Closed/Open Caption).
-    [<a href="#ref1">Guia UK-BR</a>]
+  <input type="checkbox" data-group="conteudo">
+  Descrição clara das ações ou elementos importantes.
+  [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-prefix="conteudo">
-    Conteúdo oferecido em múltiplos formatos.
-    [<a href="#ref1">Guia UK-BR</a>]
+  <input type="checkbox" data-group="conteudo">
+  Imagens complexas possuem descrição longa apropriada.
+  [<a href="#ref1">Guia UK-BR</a>]
+</label>
+
+<label class="criterio">
+  <input type="checkbox" data-group="conteudo">
+  Alt-text curto, direto e significativo.
+  [<a href="#ref3">WCAG 1.1.1</a>]
+</label>
+
+<hr>
+
+<h3>4. Áudio e Vídeo</h3>
+<p>Conteúdos multimídia devem fornecer alternativas para compreensão do conteúdo visual e sonoro.</p>
+
+<label class="criterio">
+  <input type="checkbox" data-group="conteudo">
+  Vídeos possuem descrição breve do contexto visual.
+  [<a href="#ref1">Guia UK-BR</a>]
+</label>
+
+<label class="criterio">
+  <input type="checkbox" data-group="conteudo">
+  Vídeos possuem legendas (Closed Caption ou Open Caption).
+  [<a href="#ref1">Guia UK-BR</a>]
+</label>
+
+<label class="criterio">
+  <input type="checkbox" data-group="conteudo">
+  Audiodescrição está disponível quando necessário.
+  [<a href="#ref2">NBR 5.14.4</a>]
+</label>
+
+<label class="criterio">
+  <input type="checkbox" data-group="conteudo">
+  Sons importantes além da fala são legendados.
+  [<a href="#ref2">NBR 5.14.2</a>]
+</label>
+
+<label class="criterio">
+  <input type="checkbox" data-group="conteudo">
+  Conteúdo é disponibilizado em múltiplos formatos (texto, vídeo, áudio).
+  [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 
