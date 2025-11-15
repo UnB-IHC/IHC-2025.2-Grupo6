@@ -118,11 +118,12 @@ Planejar desde o começo reduz custos, evita retrabalho, aumenta a qualidade ger
 <p id="ref5">[5] BRASIL. Portaria nº 3, de 7 de maio de 2007. Disponível em:
 <a target="_blank" href="https://www.gov.br/secretariageral/pt-br/estrutura/secretaria-executiva/secretaria-de-gestao-e-governanca/portaria3-2007">link</a>.
 </p>
-
-
+ 
 ##  Histórico de Versão
  
 | Versão | Data | Descrição | Autor(es)| Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 10/11/2025 | Criação da pagina | [ Giovana Fontes ](https://github.com/GiovanaFontesS)  | [Isabella Choukaira](https://github.com/isabellachoukaira) |
 | 1.2 | 15/11/2025 | Adição do checklist| [ Giovana Fontes ](https://github.com/GiovanaFontesS)  | [Isabella Choukaira](https://github.com/isabellachoukaira) |
+
+<script src="/docs/js/grafico_p2.js"></script>
