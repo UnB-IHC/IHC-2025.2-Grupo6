@@ -51,3 +51,4 @@ extra_css:
 
 extra_javascript:
   - js/graficos.js
+  - js/grafico_p2.js
