@@ -1,6 +1,6 @@
 # Desenvolvimento
 
-## Grafico
+## Gráficos
 <div class="progress-sidebar" style="display: flex; flex-direction: row;">
     <div style="text-align: center;">
         <h3>Nível A</h3>
@@ -16,7 +16,7 @@
     </div>
 </div>
 
-## Navegação <small>Baseado no capitulo 6 do Guia UK: "Links e Botões"</small>
+## 1. Navegação <small>Baseado no capitulo 6 do Guia UK: "Links e Botões"</small>
   
 ### links
 
@@ -93,7 +93,7 @@ Toda funcionalidade operada por movimento de arrastar pode ser operada também p
 </label>
 
 
-## Navegação por teclado: <small> Baseado no capítulo 6 do Guia UK: "Permite navegação completa por teclado"</small>
+## 2. Navegação por teclado: <small> Baseado no capítulo 6 do Guia UK: "Permite navegação completa por teclado"</small>
 
 <label class="criterio">
 <input type="checkbox" class="criterio" data-level="Adev">
@@ -134,6 +134,125 @@ Toda funcionalidade operada por movimento de arrastar pode ser operada também p
 <input type="checkbox" class="criterio" data-level="AAAdev">
   Não há funcionalidade na página que restringe o uso de algum mecanismo de entrada disponível (AAA). <a href="#NBR">[NBR 5.1.14]</a> <a href="#">[WCAG 2.5.6]</a> 
 </label>
+
+## 3. Conteúdo Visual e Auditivo
+
+<label class="criterio">
+  <input type="checkbox" class="criterio" data-level="Adev">
+  Legendas para áudio e vídeo ao vivo (A). 
+  <a href="#NBR">[NBR 5.14.9]</a> <a href="#WCAG">[WCAG 1.2.4]</a>
+</label>
+
+<label class="criterio">
+  <input type="checkbox" class="criterio" data-level="Adev">
+  É possível controlar o volume do áudio, sem afetar o volume geral do sistema (A). 
+  <a href="#NBR">[NBR 5.14.7]</a> <a href="#WCAG">[WCAG 1.4.2]</a>
+</label>
+
+<label class="criterio">
+  <input type="checkbox" class="criterio" data-level="AAdev">
+  Todos os vídeos pré-gravados têm audiodescrição para todo o conteúdo visual (AA). 
+  <a href="#NBR">[NBR 5.14.4]</a>
+</label>
+
+<label class="criterio">
+  <input type="checkbox" class="criterio" data-level="AAAdev">
+  Há janela de Libras para conteúdo em áudio (AAA). 
+  <a href="#NBR">[NBR 5.14.6]</a> <a href="#WCAG">[WCAG 1.2.6]</a>
+</label>
+
+## 4. Estrutura Semântica
+
+<label class="criterio">
+<input type="checkbox" class="criterio" data-level="Adev">
+  Todos os cabeçalhos possuem semântica determinada programaticamente (A) <a href="#NBR">[NBR 5.3.1]</a> <a href="#">[WCAG 1.3.1]</a> 
+</label>
+
+<label class="criterio">
+<input type="checkbox" class="criterio" data-level="Adev">
+  A ordem dos elementos conforme aparece no código é lógica e intuitiva, de modo que preserva o significado e a operabilidade (A). <a href="#NBR">[NBR 5.13.6]</a> <a href="#">[WCAG 1.3.2]</a> 
+</label>
+
+<label class="criterio">
+<input type="checkbox" class="criterio" data-level="Adev">
+  Todos os componentes que requerem identificação por nome possuem um nome acessível (A). <a href="#NBR">[NBR 5.13.9]</a> <a href="#">[WCAG 4.1.2]</a> 
+</label>
+
+<label class="criterio">
+<input type="checkbox" class="criterio" data-level="AAdev">
+ Os cabeçalhos e os rótulos descrevem o tópico ou a finalidade (AA). <a href="#">[WCAG 2.4.6]</a> 
+</label>
+
+## 5. Formulários e interação 
+
+<label class="criterio">
+  <input type="checkbox" class="criterio" data-level="Adev">
+  Todos os campos de formulário possuem um rótulo que os identifica (A). 
+  <a href="#NBR">[NBR 5.9.1]</a>
+</label>
+
+<label class="criterio">
+  <input type="checkbox" class="criterio" data-level="Adev">
+  As informações, a estrutura e os relacionamentos visuais do conteúdo devem poder ser identificados automaticamente por tecnologias assistivas ou estar claramente disponíveis no texto (A). 
+  <a href="#WCAG">[WCAG 1.3.1]</a>
+</label>
+
+<label class="criterio">
+  <input type="checkbox" class="criterio" data-level="Adev">
+  Rótulos ou instruções são fornecidos quando o conteúdo exigir a entrada de dados por parte do usuário (A). 
+  <a href="#WCAG">[WCAG 3.3.2]</a>
+</label>
+
+<label class="criterio">
+  <input type="checkbox" class="criterio" data-level="Adev">
+  Todos os rótulos estão associados e identificam o propósito dos respectivos campos de formulário (A). 
+  <a href="#NBR">[NBR 5.9.3]</a> <a href="#NBR">[NBR 5.9.4]</a>
+</label>
+
+<label class="criterio">
+  <input type="checkbox" class="criterio" data-level="Adev">
+  Todas as mensagens de erro descrevem em texto qual é o erro e identificam qual é o campo com erro (A). 
+  <a href="#WCAG">[WCAG 3.3.1]</a>
+</label>
+
+<label class="criterio">
+  <input type="checkbox" class="criterio" data-level="AAdev">
+  Todos os campos de entrada têm seu tipo de dado determinado programaticamente (AA). 
+  <a href="#NBR">[NBR 5.9.8]</a>
+</label>
+
+<label class="criterio">
+  <input type="checkbox" class="criterio" data-level="AAdev">
+  Todos os formulários críticos permitem uma forma de reverter, verificar ou confirmar os dados (AA). 
+  <a href="#WCAG">[WCAG 3.3.4]</a>
+</label>
+
+## 6. Tempo e Responsividade
+
+<label class="criterio">
+  <input type="checkbox" class="criterio" data-level="Adev">
+  Há um mecanismo para desligar, ajustar ou estender o limite de tempo antes de atingi-lo (A).  
+  <a href="#NBR">[NBR 5.16.2]</a> <a href="#WCAG">[WCAG 2.2.1]</a>
+</label>
+
+<label class="criterio">
+  <input type="checkbox" class="criterio" data-level="Adev">
+  Não há atualização que inicie automaticamente e seja apresentada em paralelo com outro conteúdo (A).  
+  <a href="#NBR">[NBR 5.16.3]</a> <a href="#NBR">[NBR 2.2.2]</a>
+</label>
+
+<label class="criterio">
+  <input type="checkbox" class="criterio" data-level="AAdev">
+  O conteúdo não requer uma orientação de exibição específica (AA).  
+  <a href="#NBR">[NBR 5.10.3]</a> <a href="#WCAG">[WCAG 1.3.4]</a>
+</label>
+
+<label class="criterio">
+  <input type="checkbox" class="criterio" data-level="AAdev">
+  O design é responsivo (AA).  
+  <a href="#NBR">[NBR 5.10.4]</a> <a href="#WCAG">[WCAG 1.4.10]</a>
+</label>
+
 
 # Referências Bibliograficas
 
