@@ -14,20 +14,10 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 
 <hr>
 
-<!-- GRÁFICOS -->
-<div class="progress-sidebar" style="display: flex; flex-direction: row; gap:40px; justify-content:center;">
-    <div style="text-align: center;">
-        <h3>Nível A</h3>
-        <canvas id="graficoAconteudo" width="200" height="200"></canvas>
-    </div>
-    <div style="text-align: center;">
-        <h3>Nível AA</h3>
-        <canvas id="graficoAAconteudo" width="200" height="200"></canvas>
-    </div>
-    <div style="text-align: center;">
-        <h3>Nível AAA</h3>
-        <canvas id="graficoAAAconteudo" width="200" height="200"></canvas>
-    </div>
+<!-- GRÁFICO -->
+<div style="text-align:center; margin-bottom: 20px;">
+    <h3>Progresso Geral</h3>
+    <canvas id="grafico_conteudo" width="220" height="220"></canvas>
 </div>
 
 <hr>
@@ -37,8 +27,8 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 <h3>Termos</h3>
 
 <label class="criterio">
-    <input type="checkbox" data-level="Aconteudo">
-    Uso correto do termo “pessoas com deficiência (PCD)” (A).
+    <input type="checkbox" data-prefix="conteudo">
+    Uso correto do termo “pessoas com deficiência (PCD)”.
     [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
@@ -47,26 +37,20 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 <h3>Textos</h3>
 
 <label class="criterio">
-    <input type="checkbox" data-level="Aconteudo">
-    Linguagem clara e objetiva, sem ambiguidades (A).
+    <input type="checkbox" data-prefix="conteudo">
+    Linguagem clara e objetiva.
     [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-level="Aconteudo">
-    Frases entre 15 e 20 palavras, evitando complexidade excessiva (A).
+    <input type="checkbox" data-prefix="conteudo">
+    Frases entre 15 e 20 palavras.
     [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-level="Aconteudo">
-    Uso preferencial da ordem direta (sujeito + verbo + complemento) (A).
-    [<a href="#ref1">Guia UK-BR</a>]
-</label>
-
-<label class="criterio">
-    <input type="checkbox" data-level="Aconteudo">
-    Termos especiais possuem marcação semântica adequada (A).
+    <input type="checkbox" data-prefix="conteudo">
+    Termos especiais com marcação adequada.
     [<a href="#ref2">NBR 17225</a>]
 </label>
 
@@ -75,26 +59,20 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 <h3>Descrição de Imagens</h3>
 
 <label class="criterio">
-    <input type="checkbox" data-level="Aconteudo">
-    Identificação do tipo de imagem (foto, ilustração, ícone) (A).
+    <input type="checkbox" data-prefix="conteudo">
+    Identificação do tipo de imagem.
     [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-level="Aconteudo">
-    Descrição das principais ações e elementos visíveis (A).
+    <input type="checkbox" data-prefix="conteudo">
+    Descrição clara de ações e elementos.
     [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-level="Aconteudo">
-    Imagens complexas possuem descrição longa quando necessário (A).
-    [<a href="#ref1">Guia UK-BR</a>]
-</label>
-
-<label class="criterio">
-    <input type="checkbox" data-level="Aconteudo">
-    Alt-text curto, direto e significativo (A).
+    <input type="checkbox" data-prefix="conteudo">
+    Alt-text curto e significativo.
     [<a href="#ref3">WCAG 2.2</a>]
 </label>
 
@@ -103,40 +81,23 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 <h3>Áudio e Vídeo</h3>
 
 <label class="criterio">
-    <input type="checkbox" data-level="Aconteudo">
-    Vídeos têm descrição breve do ambiente visual (A).
+    <input type="checkbox" data-prefix="conteudo">
+    Vídeos incluem descrição breve do ambiente.
     [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-level="Aconteudo">
-    Legendas (Closed ou Open Caption) incluídas (A).
+    <input type="checkbox" data-prefix="conteudo">
+    Legendas incluídas (Closed/Open Caption).
     [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
-    <input type="checkbox" data-level="AAconteudo">
-    Audiodescrição completa disponível (AA).
-    [<a href="#ref2">NBR 17225</a>]
-</label>
-
-<label class="criterio">
-    <input type="checkbox" data-level="Aconteudo">
-    Sons importantes além da fala estão legendados (A).
-    [<a href="#ref2">NBR 17225</a>]
-</label>
-
-<label class="criterio">
-    <input type="checkbox" data-level="AAconteudo">
-    Lives e transmissões ao vivo possuem legendas (AA).
-    [<a href="#ref2">NBR 17225</a>]
-</label>
-
-<label class="criterio">
-    <input type="checkbox" data-level="Aconteudo">
-    Conteúdo publicado em múltiplos formatos (texto, áudio, vídeo) (A).
+    <input type="checkbox" data-prefix="conteudo">
+    Conteúdo oferecido em múltiplos formatos.
     [<a href="#ref1">Guia UK-BR</a>]
 </label>
+
 
 <hr><hr>
 

@@ -1,24 +1,23 @@
-// Função para criar gráfico circular
+// Função para criar gráfico circular simples
 function criarGrafico(ctx, porcentagem) {
     const angulo = (porcentagem / 100) * 2 * Math.PI;
+    const w = ctx.canvas.width;
+    const h = ctx.canvas.height;
+    const r = Math.min(w, h) / 2 - 10;
 
-    const largura = ctx.canvas.width;
-    const altura = ctx.canvas.height;
-    const raio = Math.min(largura, altura) / 2 - 10;
+    ctx.clearRect(0, 0, w, h);
 
-    ctx.clearRect(0, 0, largura, altura);
-
-    // Fundo do gráfico
+    // Fundo
     ctx.beginPath();
-    ctx.arc(largura / 2, altura / 2, raio, 0, 2 * Math.PI);
-    ctx.fillStyle = "#eeeeee";
+    ctx.arc(w / 2, h / 2, r, 0, 2 * Math.PI);
+    ctx.fillStyle = "#e6e6e6";
     ctx.fill();
 
     // Parte preenchida
     ctx.beginPath();
-    ctx.moveTo(largura / 2, altura / 2);
-    ctx.arc(largura / 2, altura / 2, raio, -Math.PI / 2, angulo - Math.PI / 2, false);
-    ctx.fillStyle = "#ffa500";
+    ctx.moveTo(w / 2, h / 2);
+    ctx.arc(w / 2, h / 2, r, -Math.PI / 2, angulo - Math.PI / 2, false);
+    ctx.fillStyle = "#ff9900";
     ctx.fill();
 
     // Texto
@@ -26,44 +25,33 @@ function criarGrafico(ctx, porcentagem) {
     ctx.font = "bold 22px Arial";
     ctx.textAlign = "center";
     ctx.textBaseline = "middle";
-    ctx.fillText(porcentagem + "%", largura / 2, altura / 2);
+    ctx.fillText(`${porcentagem}%`, w / 2, h / 2);
 }
 
-// Função que atualiza os gráficos de acordo com o checklist
-function atualizarGraficos(prefixo) {
-    const checkboxes = document.querySelectorAll('input[data-level]');
+// Atualiza progresso geral de um checklist
+function atualizarProgresso(prefixo) {
+    const checkboxes = document.querySelectorAll(`input[data-prefix="${prefixo}"]`);
 
-    // AGORA ESTÁ CORRETO: prefixo vem DEPOIS (A + prefixo)
-    const totalA = [...checkboxes].filter(c => c.dataset.level === "A" + prefixo).length;
-    const marcadosA = [...checkboxes].filter(c => c.dataset.level === "A" + prefixo && c.checked).length;
+    const total = checkboxes.length;
+    const marcados = [...checkboxes].filter(c => c.checked).length;
 
-    const totalAA = [...checkboxes].filter(c => c.dataset.level === "AA" + prefixo).length;
-    const marcadosAA = [...checkboxes].filter(c => c.dataset.level === "AA" + prefixo && c.checked).length;
+    const porcentagem = total === 0 ? 0 : Math.round((marcados / total) * 100);
 
-    const totalAAA = [...checkboxes].filter(c => c.dataset.level === "AAA" + prefixo).length;
-    const marcadosAAA = [...checkboxes].filter(c => c.dataset.level === "AAA" + prefixo && c.checked).length;
-
-    const porcentagemA = totalA === 0 ? 0 : Math.round((marcadosA / totalA) * 100);
-    const porcentagemAA = totalAA === 0 ? 0 : Math.round((marcadosAA / totalAA) * 100);
-    const porcentagemAAA = totalAAA === 0 ? 0 : Math.round((marcadosAAA / totalAAA) * 100);
-
-    const canvasA = document.getElementById("graficoA" + prefixo);
-    const canvasAA = document.getElementById("graficoAA" + prefixo);
-    const canvasAAA = document.getElementById("graficoAAA" + prefixo);
-
-    if (canvasA) criarGrafico(canvasA.getContext("2d"), porcentagemA);
-    if (canvasAA) criarGrafico(canvasAA.getContext("2d"), porcentagemAA);
-    if (canvasAAA) criarGrafico(canvasAAA.getContext("2d"), porcentagemAAA);
+    const canvas = document.getElementById(`grafico_${prefixo}`);
+    if (canvas) {
+        const ctx = canvas.getContext("2d");
+        criarGrafico(ctx, porcentagem);
+    }
 }
 
-// Atualiza ao clicar em qualquer checkbox
-document.addEventListener("change", function () {
-    atualizarGraficos("conteudo");
-    atualizarGraficos("gestao");
+// Ouve qualquer alteração
+document.addEventListener("change", () => {
+    atualizarProgresso("conteudo");
+    atualizarProgresso("gestao");
 });
 
-// Render inicial ao carregar
-window.onload = function () {
-    atualizarGraficos("conteudo");
-    atualizarGraficos("gestao");
+// Render inicial
+window.onload = () => {
+    atualizarProgresso("conteudo");
+    atualizarProgresso("gestao");
 };
