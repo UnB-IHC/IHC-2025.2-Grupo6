@@ -1,5 +1,9 @@
 # Desenvolvimento
 
+Esta seção apresenta diretrizes para implementar interfaces digitais acessíveis, considerando aspectos técnicos essenciais. Ela é destinada a **desenvolvedores front-end, back-end e engenheiros de software**, responsáveis por construir sistemas robustos, compatíveis com diferentes tecnologias assistivas e capazes de oferecer uma experiência consistente para todos os usuários
+
+Esta parte do guia foi construida com base no capítulo 6 "Desenvolvimento" do <a href="#GuiaUK">Guia de Boas Práticas para Acessibilidade Digital (UK + Brasil)</a> e com base na <a href="#WCAG">Web Content Accessibility Guidelines (WCAG) 2.2</a> e na <a href="#NBR"> ABNT-NBR-17225-Acessibilidade-Digital</a> 
+
 ## Gráficos
 <div class="progress-sidebar" style="display: flex; flex-direction: row;">
     <div style="text-align: center;">
@@ -258,7 +262,10 @@ Toda funcionalidade operada por movimento de arrastar pode ser operada também p
 
 > <a id="1" href="">1.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 2.4.4 Finalidade do Link (Em contexto) (Nível A)**. Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#link-purpose-in-context](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#link-purpose-in-context). Acesso em: 10 nov. 2025.
 
+> <a id="WCAG" href=""> </a> ABNT NBR 17225:2025. **Acessibilidade em conteúdo e aplicações web – Requisitos**. Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/) Acesso em: 23 Jun. 2025
 
 > <a id="NBR" href=""> </a> ABNT NBR 17225:2025. **Acessibilidade em conteúdo e aplicações web – Requisitos**. Disponível em: [https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf](https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf) Acesso em: 23 Jun. 2025
+
+> <a id="GuiaUK" href=""></a> DINIZ, V.; FERRAZ, R.; NASCIMENTO, C. M.; CREDIDIO, R. **Guia de Boas Práticas para Acessibilidade Digital**. Programa de Cooperação entre Reino Unido e Brasil em Acesso Digital, 2023. Disponível em: [https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf](https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf). Acesso em: 9 Mai. 2024. 
 
 
