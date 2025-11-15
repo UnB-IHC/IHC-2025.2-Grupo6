@@ -122,3 +122,5 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 10/11/2025 | Criação da pagina | [ Giovana Fontes ](https://github.com/GiovanaFontesS)  | [Isabella Choukaira](https://github.com/isabellachoukaira) |
 | 1.2 | 15/11/2025 | Adição do checklist| [ Giovana Fontes ](https://github.com/GiovanaFontesS)  | [Isabella Choukaira](https://github.com/isabellachoukaira) |
+
+<script src="/docs/js/grafico_p2.js"></script>
