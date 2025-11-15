@@ -14,7 +14,7 @@ function criarGrafico(ctx, porcentagem) {
     ctx.fillStyle = "#eeeeee";
     ctx.fill();
 
-    // Porcentagem preenchida
+    // Parte preenchida
     ctx.beginPath();
     ctx.moveTo(largura / 2, altura / 2);
     ctx.arc(largura / 2, altura / 2, raio, -Math.PI / 2, angulo - Math.PI / 2, false);
@@ -33,14 +33,15 @@ function criarGrafico(ctx, porcentagem) {
 function atualizarGraficos(prefixo) {
     const checkboxes = document.querySelectorAll('input[data-level]');
 
-    const totalA = [...checkboxes].filter(c => c.dataset.level === prefixo + "A").length;
-    const marcadosA = [...checkboxes].filter(c => c.dataset.level === prefixo + "A" && c.checked).length;
+    // AGORA ESTÁ CORRETO: prefixo vem DEPOIS (A + prefixo)
+    const totalA = [...checkboxes].filter(c => c.dataset.level === "A" + prefixo).length;
+    const marcadosA = [...checkboxes].filter(c => c.dataset.level === "A" + prefixo && c.checked).length;
 
-    const totalAA = [...checkboxes].filter(c => c.dataset.level === prefixo + "AA").length;
-    const marcadosAA = [...checkboxes].filter(c => c.dataset.level === prefixo + "AA" && c.checked).length;
+    const totalAA = [...checkboxes].filter(c => c.dataset.level === "AA" + prefixo).length;
+    const marcadosAA = [...checkboxes].filter(c => c.dataset.level === "AA" + prefixo && c.checked).length;
 
-    const totalAAA = [...checkboxes].filter(c => c.dataset.level === prefixo + "AAA").length;
-    const marcadosAAA = [...checkboxes].filter(c => c.dataset.level === prefixo + "AAA" && c.checked).length;
+    const totalAAA = [...checkboxes].filter(c => c.dataset.level === "AAA" + prefixo).length;
+    const marcadosAAA = [...checkboxes].filter(c => c.dataset.level === "AAA" + prefixo && c.checked).length;
 
     const porcentagemA = totalA === 0 ? 0 : Math.round((marcadosA / totalA) * 100);
     const porcentagemAA = totalAA === 0 ? 0 : Math.round((marcadosAA / totalAA) * 100);
@@ -55,7 +56,7 @@ function atualizarGraficos(prefixo) {
     if (canvasAAA) criarGrafico(canvasAAA.getContext("2d"), porcentagemAAA);
 }
 
-// Evento para atualizar sempre que clicar em um checkbox
+// Atualiza ao clicar em qualquer checkbox
 document.addEventListener("change", function () {
     atualizarGraficos("conteudo");
     atualizarGraficos("gestao");
