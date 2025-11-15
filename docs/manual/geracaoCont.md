@@ -8,14 +8,14 @@ Esta seção apresenta diretrizes para criar conteúdos digitais acessíveis, co
 <h3>Por que é importante?</h3>
 
 <p>
-A acessibilidade não depende apenas do código ou da interface: o modo como a informação é escrita, organizada e apresentada impacta diretamente a compreensão.
-Linguagem clara, descrições adequadas e alternativas acessíveis garantem que pessoas com deficiência visual, auditiva, cognitiva, neurodivergente, idosos ou pessoas com baixa alfabetização tenham acesso pleno ao conteúdo.
+A acessibilidade não depende apenas do código: o modo como a informação é escrita e organizada impacta diretamente na compreensão.
+Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis garante que pessoas com deficiência ou baixa alfabetização possam acessar o conteúdo.
 </p>
 
 <hr>
 
 <!-- GRÁFICOS -->
-<div class="progress-sidebar" style="display: flex; flex-direction: row;">
+<div class="progress-sidebar" style="display: flex; flex-direction: row; gap:40px; justify-content:center;">
     <div style="text-align: center;">
         <h3>Nível A</h3>
         <canvas id="graficoAconteudo" width="200" height="200"></canvas>
@@ -32,15 +32,14 @@ Linguagem clara, descrições adequadas e alternativas acessíveis garantem que 
 
 <hr>
 
-
-<!-- CHECKLIST DE GERAÇÃO DE CONTEÚDO         -->
+<!-- CHECKLIST DE CONTEÚDO -->
 
 <h3>Termos</h3>
 
 <label class="criterio">
     <input type="checkbox" data-level="Aconteudo">
-    Uso correto do termo “pessoas com deficiência (PCD)”. 
-    <a href="#ref1">[1]</a>
+    Uso correto do termo “pessoas com deficiência (PCD)” (A).
+    [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <hr>
@@ -49,26 +48,26 @@ Linguagem clara, descrições adequadas e alternativas acessíveis garantem que 
 
 <label class="criterio">
     <input type="checkbox" data-level="Aconteudo">
-    Linguagem clara e objetiva, sem ambiguidades. 
-    <a href="#ref1">[1]</a>
+    Linguagem clara e objetiva, sem ambiguidades (A).
+    [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
     <input type="checkbox" data-level="Aconteudo">
-    Frases com comprimento moderado (15–20 palavras). 
-    <a href="#ref1">[1]</a>
+    Frases entre 15 e 20 palavras, evitando complexidade excessiva (A).
+    [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
     <input type="checkbox" data-level="Aconteudo">
-    Uso preferencial de ordem direta (sujeito + verbo + complemento). 
-    <a href="#ref1">[1]</a>
+    Uso preferencial da ordem direta (sujeito + verbo + complemento) (A).
+    [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
     <input type="checkbox" data-level="Aconteudo">
-    Termos especiais (siglas, ênfases, citações) possuem marcação semântica adequada. 
-    <a href="#ref2">[2]</a>
+    Termos especiais possuem marcação semântica adequada (A).
+    [<a href="#ref2">NBR 17225</a>]
 </label>
 
 <hr>
@@ -77,26 +76,26 @@ Linguagem clara, descrições adequadas e alternativas acessíveis garantem que 
 
 <label class="criterio">
     <input type="checkbox" data-level="Aconteudo">
-    Identificação do tipo de imagem (foto, ícone, gráfico). 
-    <a href="#ref1">[1]</a>
+    Identificação do tipo de imagem (foto, ilustração, ícone) (A).
+    [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
     <input type="checkbox" data-level="Aconteudo">
-    Descrição das principais ações e elementos relevantes. 
-    <a href="#ref1">[1]</a>
+    Descrição das principais ações e elementos visíveis (A).
+    [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
     <input type="checkbox" data-level="Aconteudo">
-    Imagens complexas possuem descrição longa adequada. 
-    <a href="#ref1">[1]</a>
+    Imagens complexas possuem descrição longa quando necessário (A).
+    [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
     <input type="checkbox" data-level="Aconteudo">
-    Alt-text curto, direto e significativo. 
-    <a href="#ref3">[3]</a>
+    Alt-text curto, direto e significativo (A).
+    [<a href="#ref3">WCAG 2.2</a>]
 </label>
 
 <hr>
@@ -105,49 +104,56 @@ Linguagem clara, descrições adequadas e alternativas acessíveis garantem que 
 
 <label class="criterio">
     <input type="checkbox" data-level="Aconteudo">
-    Vídeos possuem descrição breve do contexto visual. 
-    <a href="#ref1">[1]</a>
+    Vídeos têm descrição breve do ambiente visual (A).
+    [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
     <input type="checkbox" data-level="Aconteudo">
-    Legendas presentes (Closed Caption ou Open Caption). 
-    <a href="#ref1">[1]</a>
+    Legendas (Closed ou Open Caption) incluídas (A).
+    [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
     <input type="checkbox" data-level="AAconteudo">
-    Audiodescrição completa em vídeos. 
-    <a href="#ref2">[2]</a>
+    Audiodescrição completa disponível (AA).
+    [<a href="#ref2">NBR 17225</a>]
 </label>
 
 <label class="criterio">
     <input type="checkbox" data-level="Aconteudo">
-    Legenda descritiva quando há sons importantes além da fala. 
-    <a href="#ref2">[2]</a>
+    Sons importantes além da fala estão legendados (A).
+    [<a href="#ref2">NBR 17225</a>]
 </label>
 
 <label class="criterio">
     <input type="checkbox" data-level="AAconteudo">
-    Lives e transmissões ao vivo possuem legendas. 
-    <a href="#ref2">[2]</a>
+    Lives e transmissões ao vivo possuem legendas (AA).
+    [<a href="#ref2">NBR 17225</a>]
 </label>
 
 <label class="criterio">
     <input type="checkbox" data-level="Aconteudo">
-    Conteúdo disponibilizado em várias formas (texto, áudio, vídeo). 
-    <a href="#ref1">[1]</a>
+    Conteúdo publicado em múltiplos formatos (texto, áudio, vídeo) (A).
+    [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
-<hr>
+<hr><hr>
 
 <h2>Referências</h2>
 
-<p id="ref1">[1] DINIZ, V. et al. Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023). Disponível em: <a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">link</a>.</p>
+<p id="ref1">[1] DINIZ, V. et al. Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023). Disponível em:
+<a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">link</a>.
+</p>
 
-<p id="ref2">[2] ABNT. NBR 17225 — Acessibilidade Digital (2023). Disponível em: <a target="_blank" href="https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf">link</a>.</p>
+<p id="ref2">[2] ABNT. NBR 17225 — Acessibilidade Digital (2023). Disponível em:
+<a target="_blank" href="https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf">link</a>.
+</p>
 
-<p id="ref3">[3] W3C. Web Content Accessibility Guidelines (WCAG) 2.2. Disponível em: <a target="_blank" href="https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/">link</a>.</p>
+<p id="ref3">[3] W3C. Web Content Accessibility Guidelines (WCAG) 2.2. Disponível em:
+<a target="_blank" href="https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/">link</a>.
+</p>
+
 
 ##  Histórico de Versão
  
