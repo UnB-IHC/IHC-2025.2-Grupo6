@@ -1,27 +1,157 @@
+<h2>Geração de Conteúdo</h2>
 
-<p style="text-align: justify;"> Esta seção analisa aspectos de <b>acessibilidade na geração de conteúdo</b> do site da <a href="https://www.voegol.com.br/" target="_blank"><b>GOL Linhas Aéreas</b></a>, considerando como textos, imagens, botões e elementos multimídia são apresentados aos usuários. O objetivo é verificar se a comunicação digital do site favorece a compreensão, a navegação e o acesso por pessoas com diferentes tipos de deficiência, conforme as diretrizes do <b>Guia de Boas Práticas para Acessibilidade Digital (UK-BR, 2023)</b>, <b>WCAG 2.2</b> e <b>NBR 17225</b>. </p
+<p>
+Esta seção apresenta diretrizes para criar conteúdos digitais acessíveis, como textos, imagens, descrições, vídeos, áudios, podcasts e publicações em redes sociais.
+É destinada a profissionais de comunicação, marketing, jornalismo, mídias sociais, redação, produção de conteúdo e UX writing.
+</p>
 
-## Por que é importante?
+<h3>Por que é importante?</h3>
 
-<p style="text-align: justify;"> Em um site de companhia aérea, as informações precisam ser acessíveis a todos os públicos, pois envolvem etapas essenciais como <b>compra de passagens</b>, <b>check-in</b>, <b>consulta de horários</b>, <b>serviços adicionais</b> e <b>políticas de viagem</b>. Garantir que o conteúdo seja compreensível e bem estruturado é fundamental para que <b>pessoas com deficiência visual, auditiva, cognitiva, neurodivergente ou com baixa alfabetização digital</b> consigam utilizar o site de forma autônoma e segura. </p>
+<p>
+A acessibilidade não depende apenas do código ou da interface: o modo como a informação é escrita, organizada e apresentada impacta diretamente a compreensão.
+Linguagem clara, descrições adequadas e alternativas acessíveis garantem que pessoas com deficiência visual, auditiva, cognitiva, neurodivergente, idosos ou pessoas com baixa alfabetização tenham acesso pleno ao conteúdo.
+</p>
 
-## Linguagem e Texto
+<hr>
 
-## Descrição de Imagens
+<!-- GRÁFICOS -->
+<div class="progress-sidebar" style="display: flex; flex-direction: row;">
+    <div style="text-align: center;">
+        <h3>Nível A</h3>
+        <canvas id="graficoAconteudo" width="200" height="200"></canvas>
+    </div>
+    <div style="text-align: center;">
+        <h3>Nível AA</h3>
+        <canvas id="graficoAAconteudo" width="200" height="200"></canvas>
+    </div>
+    <div style="text-align: center;">
+        <h3>Nível AAA</h3>
+        <canvas id="graficoAAAconteudo" width="200" height="200"></canvas>
+    </div>
+</div>
 
-## Conteúdo Multimídia
+<hr>
 
-## Conclusão
 
-<p style="text-align: justify;"> A geração de conteúdo acessível no site da GOL Linhas Aéreas é essencial para garantir que todos os usuários possam compreender e interagir com as informações de forma independente. O uso de <b>linguagem simples</b>, <b>descrições de imagens</b>, <b>legendas em vídeos</b> e <b>textos de botão descritivos</b> são práticas que contribuem para a <b>inclusão digital</b> e cumprem as diretrizes de acessibilidade, fortalecendo a imagem da empresa como uma marca preocupada com todos os seus clientes. </p>
+<!-- CHECKLIST DE GERAÇÃO DE CONTEÚDO         -->
 
-## Referência Bibliográfica
+<h3>Termos</h3>
 
-DINIZ, V.; FERRAZ, R.; NASCIMENTO, C. M.; CREDIDIO, R. Guia de Boas Práticas para Acessibilidade Digital. Programa de Cooperação entre Reino Unido e Brasil em Acesso Digital, 2023. Disponível em: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf
-. Acesso em: 10 nov. 2025.
+<label class="criterio">
+    <input type="checkbox" data-level="Aconteudo">
+    Uso correto do termo “pessoas com deficiência (PCD)”. 
+    <a href="#ref1">[1]</a>
+</label>
+
+<hr>
+
+<h3>Textos</h3>
+
+<label class="criterio">
+    <input type="checkbox" data-level="Aconteudo">
+    Linguagem clara e objetiva, sem ambiguidades. 
+    <a href="#ref1">[1]</a>
+</label>
+
+<label class="criterio">
+    <input type="checkbox" data-level="Aconteudo">
+    Frases com comprimento moderado (15–20 palavras). 
+    <a href="#ref1">[1]</a>
+</label>
+
+<label class="criterio">
+    <input type="checkbox" data-level="Aconteudo">
+    Uso preferencial de ordem direta (sujeito + verbo + complemento). 
+    <a href="#ref1">[1]</a>
+</label>
+
+<label class="criterio">
+    <input type="checkbox" data-level="Aconteudo">
+    Termos especiais (siglas, ênfases, citações) possuem marcação semântica adequada. 
+    <a href="#ref2">[2]</a>
+</label>
+
+<hr>
+
+<h3>Descrição de Imagens</h3>
+
+<label class="criterio">
+    <input type="checkbox" data-level="Aconteudo">
+    Identificação do tipo de imagem (foto, ícone, gráfico). 
+    <a href="#ref1">[1]</a>
+</label>
+
+<label class="criterio">
+    <input type="checkbox" data-level="Aconteudo">
+    Descrição das principais ações e elementos relevantes. 
+    <a href="#ref1">[1]</a>
+</label>
+
+<label class="criterio">
+    <input type="checkbox" data-level="Aconteudo">
+    Imagens complexas possuem descrição longa adequada. 
+    <a href="#ref1">[1]</a>
+</label>
+
+<label class="criterio">
+    <input type="checkbox" data-level="Aconteudo">
+    Alt-text curto, direto e significativo. 
+    <a href="#ref3">[3]</a>
+</label>
+
+<hr>
+
+<h3>Áudio e Vídeo</h3>
+
+<label class="criterio">
+    <input type="checkbox" data-level="Aconteudo">
+    Vídeos possuem descrição breve do contexto visual. 
+    <a href="#ref1">[1]</a>
+</label>
+
+<label class="criterio">
+    <input type="checkbox" data-level="Aconteudo">
+    Legendas presentes (Closed Caption ou Open Caption). 
+    <a href="#ref1">[1]</a>
+</label>
+
+<label class="criterio">
+    <input type="checkbox" data-level="AAconteudo">
+    Audiodescrição completa em vídeos. 
+    <a href="#ref2">[2]</a>
+</label>
+
+<label class="criterio">
+    <input type="checkbox" data-level="Aconteudo">
+    Legenda descritiva quando há sons importantes além da fala. 
+    <a href="#ref2">[2]</a>
+</label>
+
+<label class="criterio">
+    <input type="checkbox" data-level="AAconteudo">
+    Lives e transmissões ao vivo possuem legendas. 
+    <a href="#ref2">[2]</a>
+</label>
+
+<label class="criterio">
+    <input type="checkbox" data-level="Aconteudo">
+    Conteúdo disponibilizado em várias formas (texto, áudio, vídeo). 
+    <a href="#ref1">[1]</a>
+</label>
+
+<hr>
+
+<h2>Referências</h2>
+
+<p id="ref1">[1] DINIZ, V. et al. Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023). Disponível em: <a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">link</a>.</p>
+
+<p id="ref2">[2] ABNT. NBR 17225 — Acessibilidade Digital (2023). Disponível em: <a target="_blank" href="https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf">link</a>.</p>
+
+<p id="ref3">[3] W3C. Web Content Accessibility Guidelines (WCAG) 2.2. Disponível em: <a target="_blank" href="https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/">link</a>.</p>
 
 ##  Histórico de Versão
  
 | Versão | Data | Descrição | Autor(es)| Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 10/11/2025 | Criação da pagina | [ Giovana Fontes ](https://github.com/GiovanaFontesS)  | [Isabella Choukaira](https://github.com/isabellachoukaira) |
+| 1.2 | 15/11/2025 | Adição do checklist| [ Giovana Fontes ](https://github.com/GiovanaFontesS)  | [Isabella Choukaira](https://github.com/isabellachoukaira) |
