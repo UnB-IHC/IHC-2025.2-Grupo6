@@ -22,126 +22,152 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 
 <hr>
 
-<!-- CHECKLIST DE CONTEÚDO -->
+<!-- CHECKLIST DE GERAÇÃO DE CONTEÚDO -->
 
+<h2>Checklist – Geração de Conteúdo Acessível</h2>
+<p>Os critérios abaixo foram elaborados com base no <b>Guia de Boas Práticas UK-BR (2023)</b>, na <b>NBR 17225:2025</b> e nas <b>WCAG 2.2</b>. Cada item está acompanhado de sua respectiva referência.</p>
+
+<hr>
+
+<!-- 1. TERMOS -->
 <h3>1. Termos</h3>
-<p>Utilizar terminologia adequada é essencial para respeito e clareza.</p>
+<p>O uso correto da terminologia é essencial para respeito, clareza e precisão semântica.</p>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Utilização correta do termo “pessoas com deficiência (PCD)”, com especificações quando necessário.
-  [<a href="#ref1">Guia UK-BR</a>]
+  Utilização adequada do termo “pessoas com deficiência (PCD)” e especificações como visual, física, múltipla etc.
+  [<a href="#refUK">Guia UK-BR – Cap. Linguagem</a>]
 </label>
 
 <hr>
 
+<!-- 2. TEXTOS -->
 <h3>2. Textos</h3>
-<p>Conteúdos devem ser diretos, claros e estruturados para facilitar compreensão.</p>
+<p>Os textos devem ser claros, diretos e estruturados para garantir compreensão por pessoas com diferentes perfis cognitivos.</p>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Linguagem clara, objetiva e sem ambiguidades.
-  [<a href="#ref1">Guia UK-BR</a>]
+  Uso de linguagem clara, objetiva e não ambígua.
+  [<a href="#refUK">Guia UK-BR – Cap. Linguagem</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Frases curtas, com média de 15–20 palavras.
-  [<a href="#ref1">Guia UK-BR</a>]
+  Frases com média de 15–20 palavras.
+  [<a href="#refUK">Guia UK-BR – Cap. Linguagem</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Uso preferencial de ordem direta (sujeito + verbo + complemento).
-  [<a href="#ref1">Guia UK-BR</a>]
+  Preferência por orações em ordem direta (Sujeito + Verbo + Complemento).
+  [<a href="#refUK">Guia UK-BR – Cap. Linguagem</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Termos especiais utilizam marcação semântica adequada.
-  [<a href="#ref2">NBR 5.12.8</a>]
+  Termos com significado especial (citações, abreviações, ênfases) usam marcação semântica adequada.
+  [<a href="#refNBR">NBR 5.12.8</a>] 
+  [<a href="#refNBR">NBR 5.12.9</a>]
+  [<a href="#refWCAG1">WCAG 1.3.1</a>]
 </label>
 
 <hr>
 
+<!-- 3. DESCRIÇÃO DE IMAGENS -->
 <h3>3. Descrição de Imagens</h3>
-<p>Descrições ajudam usuários cegos ou com baixa visão a compreender o conteúdo visual.</p>
+<p>Imagens devem ser compreensíveis para usuários cegos ou com baixa visão, garantindo equivalência informacional.</p>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Identificação do tipo e conteúdo principal da imagem.
-  [<a href="#ref1">Guia UK-BR</a>]
+  A descrição identifica claramente o tipo e o conteúdo principal da imagem.
+  [<a href="#refUK">Guia UK-BR – Cap. Imagens</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Descrição clara das ações ou elementos importantes.
-  [<a href="#ref1">Guia UK-BR</a>]
+  Imagens com ação possuem descrição da ação representada.
+  [<a href="#refUK">Guia UK-BR – Cap. Imagens</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Imagens complexas possuem descrição longa apropriada.
-  [<a href="#ref1">Guia UK-BR</a>]
+  Imagens complexas possuem descrição longa separada.
+  [<a href="#refUK">Guia UK-BR – Cap. Imagens</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Alt-text curto, direto e significativo.
-  [<a href="#ref3">WCAG 1.1.1</a>]
+  Alternativas textuais são curtas, claras e significativas.
+  [<a href="#refWCAGALT">WCAG 1.1.1</a>]
 </label>
 
 <hr>
 
+<!-- 4. ÁUDIO E VÍDEO -->
 <h3>4. Áudio e Vídeo</h3>
-<p>Conteúdos multimídia devem fornecer alternativas para compreensão do conteúdo visual e sonoro.</p>
+<p>Conteúdos multimídia devem ser acessíveis para usuários com deficiência auditiva, visual ou cognitiva.</p>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Vídeos possuem descrição breve do contexto visual.
-  [<a href="#ref1">Guia UK-BR</a>]
+  Vídeos incluem uma descrição breve do contexto visual.
+  [<a href="#refUK">Guia UK-BR – Cap. Multimídia</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Vídeos possuem legendas (Closed Caption ou Open Caption).
-  [<a href="#ref1">Guia UK-BR</a>]
+  Vídeos oferecem legendas (Closed Caption ou Open Caption).
+  [<a href="#refUK">Guia UK-BR – Cap. Multimídia</a>]
+  [<a href="#refWCAGCaption">WCAG 1.2.2</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Audiodescrição está disponível quando necessário.
-  [<a href="#ref2">NBR 5.14.4</a>]
+  Audiodescrição é fornecida quando o conteúdo visual é necessário para entendimento.
+  [<a href="#refNBR">NBR 5.14.4</a>]
+  [<a href="#refWCAGADesc">WCAG 1.2.5</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Sons importantes além da fala são legendados.
-  [<a href="#ref2">NBR 5.14.2</a>]
+  Sons relevantes são legendados (efeitos, ruídos, trilhas).
+  [<a href="#refNBR">NBR 5.14.2</a>]
+  [<a href="#refWCAGCaption">WCAG 1.2.2</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Conteúdo é disponibilizado em múltiplos formatos (texto, vídeo, áudio).
-  [<a href="#ref1">Guia UK-BR</a>]
+  O conteúdo é disponibilizado em múltiplos formatos (texto, áudio e vídeo).
+  [<a href="#refUK">Guia UK-BR – Cap. Multimídia</a>]
 </label>
 
+<hr>
 
-<hr><hr>
+<!-- REFERÊNCIAS -->
+<h2>Referências Bibliográficas</h2>
 
-<h2>Referências</h2>
+<p><a id="refUK"></a>DINIZ, V. et al. <b>Guia de Boas Práticas para Acessibilidade Digital</b>. Programa de Cooperação UK-BR, 2023.  
+Disponível em: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf  
+Acesso em: 09 mai. 2024.</p>
 
-<p id="ref1">[1] DINIZ, V. et al. Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023). Disponível em:
-<a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">link</a>.
-</p>
+<p><a id="refNBR"></a>ABNT NBR 17225:2025. <b>Acessibilidade em Conteúdo e Aplicações Web – Requisitos</b>.  
+Disponível em: https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf  
+Acesso em: 23 jun. 2025.</p>
 
-<p id="ref2">[2] ABNT. NBR 17225 — Acessibilidade Digital (2023). Disponível em:
-<a target="_blank" href="https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf">link</a>.
-</p>
+<p><a id="refWCAGALT"></a>WCAG 2.2 – <b>Critério 1.1.1 – Conteúdo Não Textual</b>.  
+https://www.w3.org/WAI/standards-guidelines/wcag/  
+Acesso em: 10 nov. 2025.</p>
 
-<p id="ref3">[3] W3C. Web Content Accessibility Guidelines (WCAG) 2.2. Disponível em:
-<a target="_blank" href="https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/">link</a>.
-</p>
+<p><a id="refWCAG1"></a>WCAG 2.2 – <b>Critério 1.3.1 – Informação e Relacionamentos</b>.  
+https://www.w3.org/WAI/standards-guidelines/wcag/  
+Acesso em: 10 nov. 2025.</p>
+
+<p><a id="refWCAGCaption"></a>WCAG 2.2 – <b>Critério 1.2.2 – Legendas (Pré-gravado)</b>.  
+https://www.w3.org/WAI/standards-guidelines/wcag/  
+Acesso em: 10 nov. 2025.</p>
+
+<p><a id="refWCAGADesc"></a>WCAG 2.2 – <b>Critério 1.2.5 – Audiodescrição (Pré-gravada)</b>.  
+https://www.w3.org/WAI/standards-guidelines/wcag/  
+Acesso em: 10 nov. 2025.</p>
 
 
 ##  Histórico de Versão

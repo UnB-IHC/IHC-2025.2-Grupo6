@@ -25,11 +25,11 @@ Planejar desde o começo reduz custos, evita retrabalho, aumenta a qualidade ger
 <!-- CHECKLIST DE GESTÃO DE PROJETO -->
 
 <h3>1. Gestão Técnica</h3>
-<p>Durante a fase inicial, é essencial considerar diferentes perfis de usuários para garantir que requisitos de acessibilidade sejam contemplados desde o início.</p>
+<p>A elaboração de personas acessíveis durante o início do projeto assegura que as necessidades de diferentes perfis de usuários sejam contempladas desde a concepção.</p>
 
 <label class="criterio">
   <input type="checkbox" data-group="gestao">
-  Personas representam pessoas com deficiência visual.
+  Personas representam pessoas com deficiência visual (cegueira, baixa visão, daltonismo).
   [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
@@ -41,77 +41,92 @@ Planejar desde o começo reduz custos, evita retrabalho, aumenta a qualidade ger
 
 <label class="criterio">
   <input type="checkbox" data-group="gestao">
-  Personas incluem usuários com deficiência auditiva.
+  Personas representam usuários com deficiência auditiva (surdez, baixa audição).
   [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="gestao">
-  Personas contemplam perfis neurodiversos (autistas, TDAH, dislexia).
+  Personas contemplam perfis neurodiversos (autistas, disléxicos, TDAH).
   [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="gestao">
-  A equipe conhece e aplica WCAG 2.2 (níveis A e AA).
+  Personas abordam múltiplas deficiências ou condições associadas.
+  [<a href="#ref1">Guia UK-BR</a>]
+</label>
+
+<label class="criterio">
+  <input type="checkbox" data-group="gestao">
+  A equipe conhece e aplica diretrizes WCAG 2.2 (níveis A e AA).
   [<a href="#ref3">WCAG 2.2</a>]
 </label>
 
 <hr>
 
 <h3>2. Conscientização</h3>
-<p>O time deve compreender a diversidade de usuários, estatísticas de acessibilidade, legislações e impacto social.</p>
+<p>É essencial que a equipe tenha conhecimento sobre dados, legislações e impactos sociais relacionados à acessibilidade para fundamentar decisões ao longo do projeto.</p>
 
 <label class="criterio">
   <input type="checkbox" data-group="gestao">
-  A equipe conhece estatísticas globais e nacionais de pessoas com deficiência.
+  A equipe conhece estatísticas mundiais e brasileiras sobre pessoas com deficiência.
   [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="gestao">
-  O time entende a diferença entre deficiências congênitas, adquiridas, hereditárias e temporárias.
+  O time compreende diferenças entre deficiências congênitas, hereditárias, adquiridas e temporárias.
   [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="gestao">
-  A equipe conhece direitos das pessoas com deficiência e legislações aplicáveis.
+  A equipe compreende o custo, impacto e importância da acessibilidade digital.
+  [<a href="#ref1">Guia UK-BR</a>]
+</label>
+
+<label class="criterio">
+  <input type="checkbox" data-group="gestao">
+  A equipe conhece legislações relevantes e direitos das pessoas com deficiência.
   [<a href="#ref4">ONU</a>] [<a href="#ref5">Portaria 3/2007</a>]
 </label>
 
 <hr>
 
 <h3>3. Planejamento</h3>
-<p>O planejamento deve incluir atividades de acessibilidade, recursos e prazos bem definidos.</p>
+<p>O plano de projeto deve prever atividades, recursos e prazos dedicados à acessibilidade, garantindo que essas práticas sejam incorporadas desde o início.</p>
 
 <label class="criterio">
   <input type="checkbox" data-group="gestao">
-  O cronograma do projeto inclui atividades específicas de acessibilidade.  
+  O cronograma inclui atividades específicas relacionadas à acessibilidade digital.
   [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="gestao">
-  Há definição de recursos (pessoas, ferramentas e treinamentos) voltados à acessibilidade.
+  Há definição de recursos: equipe qualificada, ferramentas, softwares e treinamentos.
   [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="gestao">
-  O planejamento considera necessidades de diferentes tipos de deficiência.
+  O planejamento considera necessidades de usuários com diferentes tipos de deficiência.
   [<a href="#ref1">Guia UK-BR</a>]
 </label>
 
 <hr><hr>
 
+
+<!-- ===================== REFERÊNCIAS ===================== -->
+
 <h2>Referências</h2>
 
-<p id="ref1">[1] DINIZ, V. et al. Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023). Disponível em: 
+<p id="ref1">[1] DINIZ, V. et al. Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023). Disponível em:
 <a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">link</a>.
 </p>
 
-<p id="ref2">[2] ABNT. NBR 17225 — Acessibilidade Digital (2023). Disponível em: 
+<p id="ref2">[2] ABNT. NBR 17225 — Acessibilidade Digital (2023). Disponível em:
 <a target="_blank" href="https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf">link</a>.
 </p>
 
@@ -126,6 +141,7 @@ Planejar desde o começo reduz custos, evita retrabalho, aumenta a qualidade ger
 <p id="ref5">[5] BRASIL. Portaria nº 3, de 7 de maio de 2007. Disponível em:
 <a target="_blank" href="https://www.gov.br/secretariageral/pt-br/estrutura/secretaria-executiva/secretaria-de-gestao-e-governanca/portaria3-2007">link</a>.
 </p>
+
  
 ##  Histórico de Versão
  
