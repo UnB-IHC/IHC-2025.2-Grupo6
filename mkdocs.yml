@@ -28,7 +28,7 @@ theme:
 nav:
   - Início: index.md
   - Manual de Acessibilidade: 
-    - Introdução: "manual/introducao.md"
+    ##- Introdução: "manual/introducao.md"
     - Desenvolvimento Web: "manual/devWeb.md"
     - Design: "manual/design.md"
     - Geração de Conteúdo: "manual/geracaoCont.md"
