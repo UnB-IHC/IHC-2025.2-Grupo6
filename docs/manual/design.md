@@ -18,7 +18,7 @@ Esta seção do guia foi construida com base no capítulo 7 "Design" do <a href=
     </div>
 </div>
 
-## Cores e Contraste
+## 1. Cores e Contraste
 <!-- CORES E CONTRASTE -->
 <label class="criterio">
   <input type="checkbox" class="criterio" data-level="Adev">
@@ -38,7 +38,7 @@ Esta seção do guia foi construida com base no capítulo 7 "Design" do <a href=
   <a href="#">[WCAG 1.4.11]</a>
 </label>
 
-## Conteúdo Textual
+## 2. Conteúdo Textual
 <!-- CONTEÚDO TEXTUAL -->
 <label class="criterio">
   <input type="checkbox" class="criterio" data-level="Adev">
@@ -70,7 +70,7 @@ Esta seção do guia foi construida com base no capítulo 7 "Design" do <a href=
   <a href="#NBR">[NBR 5.12.5]</a>
 </label>
 
-## Animação
+## 3. Animação
 <!-- ANIMAÇÃO -->
 <label class="criterio">
   <input type="checkbox" class="criterio" data-level="Adev">
@@ -90,7 +90,7 @@ Esta seção do guia foi construida com base no capítulo 7 "Design" do <a href=
   <a href="#NBR">[NBR 5.15.3]</a> <a href="#">[WCAG 2.3.3]</a>
 </label>
 
-## Conteúdo Visual e Audidtivo
+## 4. Conteúdo Visual e Audidtivo
 <!-- CONTEÚDO VISUAL E AUDITIVO -->
 <label class="criterio">
   <input type="checkbox" class="criterio" data-level="Adev">
