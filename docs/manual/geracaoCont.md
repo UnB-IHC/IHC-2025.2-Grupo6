@@ -65,9 +65,8 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Termos com significado especial (citações, abreviações, ênfases) usam marcação semântica adequada.
-  [<a href="#refNBR">NBR 5.12.8</a>] 
-  [<a href="#refNBR">NBR 5.12.9</a>]
+  Termos com significado especial usam marcação semântica adequada.
+  [<a href="#refNBR">NBR 5.12.8</a>]
   [<a href="#refWCAG1">WCAG 1.3.1</a>]
 </label>
 
@@ -109,35 +108,29 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Vídeos incluem uma descrição breve do contexto visual.
+  Vídeos incluem descrição breve do contexto visual.
   [<a href="#refUK">Guia UK-BR – Cap. Multimídia</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Vídeos oferecem legendas (Closed Caption ou Open Caption).
+  Vídeos oferecem legendas.
   [<a href="#refUK">Guia UK-BR – Cap. Multimídia</a>]
   [<a href="#refWCAGCaption">WCAG 1.2.2</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Audiodescrição é fornecida quando o conteúdo visual é necessário para entendimento.
+  Audiodescrição é fornecida quando necessária.
   [<a href="#refNBR">NBR 5.14.4</a>]
   [<a href="#refWCAGADesc">WCAG 1.2.5</a>]
 </label>
 
 <label class="criterio">
   <input type="checkbox" data-group="conteudo">
-  Sons relevantes são legendados (efeitos, ruídos, trilhas).
+  Sons relevantes são legendados.
   [<a href="#refNBR">NBR 5.14.2</a>]
   [<a href="#refWCAGCaption">WCAG 1.2.2</a>]
-</label>
-
-<label class="criterio">
-  <input type="checkbox" data-group="conteudo">
-  O conteúdo é disponibilizado em múltiplos formatos (texto, áudio e vídeo).
-  [<a href="#refUK">Guia UK-BR – Cap. Multimídia</a>]
 </label>
 
 <hr>
@@ -145,30 +138,29 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 <!-- REFERÊNCIAS -->
 <h2>Referências Bibliográficas</h2>
 
-<p><a id="refUK"></a>DINIZ, V. et al. <b>Guia de Boas Práticas para Acessibilidade Digital</b>. Programa de Cooperação UK-BR, 2023.  
-Disponível em: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf  
+<p id="refUK"><b>DINIZ, V. et al.</b> Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023).  
+Disponível em: <a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">link</a>.  
 Acesso em: 09 mai. 2024.</p>
 
-<p><a id="refNBR"></a>ABNT NBR 17225:2025. <b>Acessibilidade em Conteúdo e Aplicações Web – Requisitos</b>.  
-Disponível em: https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf  
+<p id="refNBR"><b>ABNT NBR 17225:2025.</b> Acessibilidade em Conteúdo e Aplicações Web.  
+Disponível em: <a target="_blank" href="https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf">link</a>.  
 Acesso em: 23 jun. 2025.</p>
 
-<p><a id="refWCAGALT"></a>WCAG 2.2 – <b>Critério 1.1.1 – Conteúdo Não Textual</b>.  
-https://www.w3.org/WAI/standards-guidelines/wcag/  
+<p id="refWCAGALT"><b>WCAG 2.2 – Critério 1.1.1 – Conteúdo Não Textual.</b>  
+<a target="_blank" href="https://www.w3.org/WAI/standards-guidelines/wcag/">link</a>.  
 Acesso em: 10 nov. 2025.</p>
 
-<p><a id="refWCAG1"></a>WCAG 2.2 – <b>Critério 1.3.1 – Informação e Relacionamentos</b>.  
-https://www.w3.org/WAI/standards-guidelines/wcag/  
+<p id="refWCAG1"><b>WCAG 2.2 – Critério 1.3.1 – Informação e Relacionamentos.</b>  
+<a target="_blank" href="https://www.w3.org/WAI/standards-guidelines/wcag/">link</a>.  
 Acesso em: 10 nov. 2025.</p>
 
-<p><a id="refWCAGCaption"></a>WCAG 2.2 – <b>Critério 1.2.2 – Legendas (Pré-gravado)</b>.  
-https://www.w3.org/WAI/standards-guidelines/wcag/  
+<p id="refWCAGCaption"><b>WCAG 2.2 – Critério 1.2.2 – Legendas (Pré-gravado).</b>  
+<a target="_blank" href="https://www.w3.org/WAI/standards-guidelines/wcag/">link</a>.  
 Acesso em: 10 nov. 2025.</p>
 
-<p><a id="refWCAGADesc"></a>WCAG 2.2 – <b>Critério 1.2.5 – Audiodescrição (Pré-gravada)</b>.  
-https://www.w3.org/WAI/standards-guidelines/wcag/  
+<p id="refWCAGADesc"><b>WCAG 2.2 – Critério 1.2.5 – Audiodescrição (Pré-gravada).</b>  
+<a target="_blank" href="https://www.w3.org/WAI/standards-guidelines/wcag/">link</a>.  
 Acesso em: 10 nov. 2025.</p>
-
 
 ##  Histórico de Versão
  
