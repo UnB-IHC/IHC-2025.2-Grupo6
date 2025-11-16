@@ -1,5 +1,4 @@
 
-
 <hr>
 
 <h2>Gestão de Projeto</h2>
@@ -181,5 +180,4 @@ Disponível em:  
 
 <hr>
 
-
-<script src="/docs/js/grafico_p2.js"></script>
+<script src="js/grafico_p2.js"></script>
