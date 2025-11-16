@@ -141,16 +141,16 @@ WCAG 2.2</a></b>.
 <p id="refUK"><b>DINIZ, V. et al.</b> Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023).  
 Disponível em: 
 <a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf</a>.  
-Acesso em: 09 mai. 2024.</p>
+Acesso em: 14 de nov. 2025.</p>
 
 <p id="refNBR"><b>ABNT NBR 17225:2025.</b> Acessibilidade em Conteúdo e Aplicações Web.  
 Disponível em: 
 <a target="_blank" href="https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf">https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf</a>.  
-Acesso em: 23 jun. 2025.</p>
+Acesso em: 15 nov. 2025.</p>
 
 <p id="refWCAGALT"><b>WCAG 2.2 – Critério 1.1.1 – Conteúdo Não Textual.</b>  
 <a target="_blank" href="https://www.w3.org/WAI/standards-guidelines/wcag/">https://www.w3.org/WAI/standards-guidelines/wcag/</a>.  
-Acesso em: 10 nov. 2025.</p>
+Acesso em: 15 nov. 2025.</p>
 
 <p id="refWCAG1"><b>WCAG 2.2 – Critério 1.3.1 – Informação e Relacionamentos.</b>  
 <a target="_blank" href="https://www.w3.org/WAI/standards-guidelines/wcag/">https://www.w3.org/WAI/standards-guidelines/wcag/</a>.  
