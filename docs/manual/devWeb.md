@@ -293,60 +293,65 @@ Toda funcionalidade operada por movimento de arrastar pode ser operada também p
 > <a id="13" href="">13.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 3.2.5 Mudança a Pedido (Nível AAA).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#change-on-request](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#change-on-request). Acesso em: 10 nov. 2025.
 
 <!-- NAVEGAÇÃO POR TECLADO -->
-> <a id="14" href="">14.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 2.1.1 Teclado (Nível A). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#keyboard](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#keyboard). Acesso em: 10 nov. 2025.
+> <a id="14" href="">14.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 2.1.1 Teclado (Nível A).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#keyboard](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#keyboard). Acesso em: 10 nov. 2025.
 
-> <a id="15" href="">15.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 2.4.3 Ordem do Foco (Nível A). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#focus-order](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#focus-order). Acesso em: 10 nov. 2025.
+> <a id="15" href="">15.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 2.4.3 Ordem do Foco (Nível A).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#focus-order](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#focus-order). Acesso em: 10 nov. 2025.
 
-> <a id="16" href="">16.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 2.1.2 Sem Armadilha de Teclado (Nível A). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#no-keyboard-trap](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#no-keyboard-trap). Acesso em: 10 nov. 2025.
+> <a id="16" href="">16.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 2.1.2 Sem Armadilha de Teclado (Nível A).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#no-keyboard-trap](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#no-keyboard-trap). Acesso em: 10 nov. 2025.
 
-> <a id="17" href="">17.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 2.1.4 Atalhos de Teclado com Caracteres (Nível A). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#character-key-shortcuts](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#character-key-shortcuts). Acesso em: 10 nov. 2025.
+> <a id="17" href="">17.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 2.1.4 Atalhos de Teclado com Caracteres (Nível A).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#character-key-shortcuts](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#character-key-shortcuts). Acesso em: 10 nov. 2025.
 
-> <a id="18" href="">18.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 2.4.7 Foco Visível (Nível AA). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#focus-visible](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#focus-visible). Acesso em: 10 nov. 2025.
+> <a id="18" href="">18.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 2.4.7 Foco Visível (Nível AA).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#focus-visible](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#focus-visible). Acesso em: 10 nov. 2025.
 
-> <a id="19" href="">19.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 2.5.6 Mecanismos de Entrada Concorrentes (Nível AAA). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#concurrent-input-mechanisms](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#concurrent-input-mechanisms). Acesso em: 10 nov. 2025.
+> <a id="19" href="">19.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 2.5.6 Mecanismos de Entrada Concorrentes (Nível AAA).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#concurrent-input-mechanisms](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#concurrent-input-mechanisms). Acesso em: 10 nov. 2025.
 
 <!-- CONTEÚDO VISUAL E AUDITIVO-->
 
-> <a id="20" href="">20.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 1.2.4 Legendas (Ao Vivo) (Nível A). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#captions-live](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#captions-live). Acesso em: 10 nov. 2025.
+> <a id="20" href="">20.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 1.2.4 Legendas (Ao Vivo) (Nível A).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#captions-live](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#captions-live). Acesso em: 10 nov. 2025.
 
-> <a id="21" href="">21.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 1.4.2 Controle de Áudio (Nível A). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#audio-control](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#audio-control). Acesso em: 10 nov. 2025.
+> <a id="21" href="">21.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 1.4.2 Controle de Áudio (Nível A).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#audio-control](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#audio-control). Acesso em: 10 nov. 2025.
 
-> <a id="22" href="">22.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 1.2.6 Língua de Sinais (Pré-gravada) (Nível AAA). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#sign-language-prerecorded](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#sign-language-prerecorded). Acesso em: 10 nov. 2025.
+> <a id="22" href="">22.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 1.2.6 Língua de Sinais (Pré-gravada) (Nível AAA).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#sign-language-prerecorded](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#sign-language-prerecorded). Acesso em: 10 nov. 2025.
 
 <!-- SEMÂNTICA-->
-> <a id="23" href="">23.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 1.3.1 Informação e Relacionamentos (Nível A). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#info-and-relationships](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#info-and-relationships). Acesso em: 10 nov. 2025.
+> <a id="23" href="">23.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 1.3.1 Informação e Relacionamentos (Nível A).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#info-and-relationships](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#info-and-relationships). Acesso em: 10 nov. 2025.
 
-> <a id="24" href="">24.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 1.3.2 Sequência com Significado (Nível A). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#meaningful-sequence](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#meaningful-sequence). Acesso em: 10 nov. 2025.
+> <a id="24" href="">24.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 1.3.2 Sequência com Significado (Nível A).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#meaningful-sequence](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#meaningful-sequence). Acesso em: 10 nov. 2025.
 
-> <a id="25" href="">25.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 3.1.1 Idioma da Página (Nível A). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#language-of-page](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#language-of-page). Acesso em: 10 nov. 2025.
+> <a id="25" href="">25.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 3.1.1 Idioma da Página (Nível A).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#language-of-page](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#language-of-page). Acesso em: 10 nov. 2025.
 
-> <a id="26" href="">26.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 4.1.2 Nome, Função e Valor (Nível A). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#name-role-value](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#name-role-value). Acesso em: 10 nov. 2025.
+> <a id="26" href="">26.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 4.1.2 Nome, Função e Valor (Nível A).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#name-role-value](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#name-role-value). Acesso em: 10 nov. 2025.
 
-> <a id="27" href="">27.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 2.4.6 Cabeçalhos e Rótulos (Nível AA). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#headings-and-labels](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#headings-and-labels). Acesso em: 10 nov. 2025.
+> <a id="27" href="">27.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 2.4.6 Cabeçalhos e Rótulos (Nível AA).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#headings-and-labels](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#headings-and-labels). Acesso em: 10 nov. 2025.
 
 <!-- FORMULÁRIOS-->
 > <a id="28" href="">28.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 3.3.2 Rótulos ou Instruções (Nível A). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#labels-or-instructions](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#labels-or-instructions). Acesso em: 10 nov. 2025.
 
-> <a id="29" href="">29.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 3.3.1 Identificação de Erros (Nível A). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#error-identification](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#error-identification). Acesso em: 10 nov. 2025.
+> <a id="29" href="">29.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 3.3.1 Identificação de Erros (Nível A).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#error-identification](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#error-identification). Acesso em: 10 nov. 2025.
 
-> <a id="30" href="">30.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 3.3.4 Sugestão para Erros (Nível AA). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#error-prevention-legal-financial-data](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#error-prevention-legal-financial-data). Acesso em: 10 nov. 2025.
+> <a id="30" href="">30.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 3.3.4 Sugestão para Erros (Nível AA).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#error-prevention-legal-financial-data](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#error-prevention-legal-financial-data). Acesso em: 10 nov. 2025.
 
 
 <!-- RESPONSIVIDADE-->
-> <a id="31" href="">31.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 2.2.1 Ajuste de Tempo (Nível A). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#timing-adjustable](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#timing-adjustable). Acesso em: 10 nov. 2025.
+> <a id="31" href="">31.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 2.2.1 Ajuste de Tempo (Nível A).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#timing-adjustable](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#timing-adjustable). Acesso em: 10 nov. 2025.
 
-> <a id="32" href="">32.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 2.2.2 Pausar, Parar, Ocultar (Nível A). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#pause-stop-hide](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#pause-stop-hide). Acesso em: 10 nov. 2025.
+> <a id="32" href="">32.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 2.2.2 Pausar, Parar, Ocultar (Nível A).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#pause-stop-hide](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#pause-stop-hide). Acesso em: 10 nov. 2025.
 
-> <a id="33" href="">33.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 1.3.4 Orientação (Nível AA). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#orientation](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#orientation). Acesso em: 10 nov. 2025.
+> <a id="33" href="">33.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 1.3.4 Orientação (Nível AA).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#orientation](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#orientation). Acesso em: 10 nov. 2025.
 
-> <a id="34" href="">34.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. Critério de Sucesso 1.4.10 Refluxo (Nível AA). Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#reflow](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#reflow). Acesso em: 10 nov. 2025.
+> <a id="34" href="">34.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 1.4.10 Refluxo (Nível AA).** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#reflow](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#reflow). Acesso em: 10 nov. 2025.
 
 <!-- REFERENCIA DE MATERIAL-->
 
-> <a id="WCAG" href=""> </a> ABNT NBR 17225:2025. **Acessibilidade em conteúdo e aplicações web – Requisitos**. Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/) Acesso em: 23 Jun. 2025
+> <a id="WCAG" href=""> </a>  WORLD WIDE WEB CONSORTIUM. **Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2.** Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/) Acesso em: 16 Nov. 2025
 
-> <a id="NBR" href=""> </a> ABNT NBR 17225:2025. **Acessibilidade em conteúdo e aplicações web – Requisitos**. Disponível em: [https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf](https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf) Acesso em: 23 Jun. 2025
+> <a id="NBR" href=""> </a> ABNT NBR 17225:2025. **Acessibilidade em conteúdo e aplicações web – Requisitos**. Disponível em: [https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf](https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf) Acesso em: 16 Nov. 2025
 
-> <a id="GuiaUK" href=""></a> DINIZ, V.; FERRAZ, R.; NASCIMENTO, C. M.; CREDIDIO, R. **Guia de Boas Práticas para Acessibilidade Digital**. Programa de Cooperação entre Reino Unido e Brasil em Acesso Digital, 2023. Disponível em: [https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf](https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf). Acesso em: 9 Mai. 2024. 
+> <a id="GuiaUK" href=""></a> DINIZ, V.; FERRAZ, R.; NASCIMENTO, C. M.; CREDIDIO, R. **Guia de Boas Práticas para Acessibilidade Digital**. Programa de Cooperação entre Reino Unido e Brasil em Acesso Digital, 2023. Disponível em: [https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf](https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf). Acesso em: 10 Nov. 2025. 
 
+##  Histórico de Versão
 
+| Versão | Data | Descrição | Autor(es)| Revisor(es) |
+|--------|------|-----------|-----------|-------------|
+| 1.0 | 14/11/2025 | Criação dos critérios |[Isabella Choukaira](https://github.com/isabellachoukaira) | [ Giovana Fontes ](https://github.com/GiovanaFontesS) | 
+| 1.1 | 15/11/2025 | Adição das Referências |[Isabella Choukaira](https://github.com/isabellachoukaira) | [ Giovana Fontes ](https://github.com/GiovanaFontesS) | 
