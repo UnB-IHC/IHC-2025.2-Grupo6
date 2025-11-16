@@ -124,7 +124,7 @@ O plano de projeto deve incluir prazos, recursos, atividades e responsabilidades
 
 <hr><hr>
 
-<h2>Referências Detalhadas</h2>
+<h2>Referências Bibliograficas</h2>
 
 <p id="Portaria-2007">
 [1] **Portaria nº 3/2007 — Governo Federal.** Dispõe sobre as atribuições do Comitê de Acessibilidade.
