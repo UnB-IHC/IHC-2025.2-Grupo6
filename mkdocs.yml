@@ -28,12 +28,17 @@ theme:
 nav:
   - Início: index.md
   - Manual de Acessibilidade: 
-    ##- Introdução: "manual/introducao.md"
     - Desenvolvimento Web: "manual/devWeb.md"
     - Design: "manual/design.md"
     - Geração de Conteúdo: "manual/geracaoCont.md"
     - Gestão de Projeto: "manual/gestaoProj.md"
-  - Recursos: Recursos.md
+  - Ferramentas: 
+    - Antes de Começar: "ferramentas/introducao.md"
+    - VLibras: "ferramentas/vLibras.md"
+    - ASES: "ferramentas/ases.md"
+    - Acess Monitor Plus: "ferramentas/acess.md"
+    - WAVE: "ferramentas/wave.md"
+  - Fontes: Recursos.md
   - Sobre: Sobre.md
 
 markdown_extensions:
