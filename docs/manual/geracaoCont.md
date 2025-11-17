@@ -128,31 +128,68 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 
 <h2>Referências Bibliográficas</h2>
 
-<p id="refUK"><b>DINIZ, V. et al.</b> Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023).  
-Disponível em: 
-<a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf</a>.  
-Acesso em: 14 de nov. 2025.</p>
+<ol style="padding-left: 20px;">
 
-<p id="refNBR"><b>ABNT NBR 17225:2025.</b> Acessibilidade em Conteúdo e Aplicações Web.  
-Disponível em: 
-<a target="_blank" href="https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf">https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf</a>.  
-Acesso em: 15 nov. 2025.</p>
+  <li>
+    <b>DINIZ, V. et al.</b> Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023).
+    Disponível em:
+    <a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">
+      https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf
+    </a>.
+    Acesso em: 14 nov. 2025.
+  </li>
 
-<p id="refWCAGALT"><b>WCAG 2.2 – Critério 1.1.1 – Conteúdo Não Textual.</b>  
-<a target="_blank" href="https://www.w3.org/WAI/standards-guidelines/wcag/">https://www.w3.org/WAI/standards-guidelines/wcag/</a>.  
-Acesso em: 15 nov. 2025.</p>
+  <li>
+    <b>ABNT NBR 17225:2025.</b> Acessibilidade em Conteúdo e Aplicações Web.
+    Disponível em:
+    <a target="_blank" href="https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf">
+      https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf
+    </a>.
+    Acesso em: 15 nov. 2025.
+  </li>
 
-<p id="refWCAG1"><b>WCAG 2.2 – Critério 1.3.1 – Informação e Relacionamentos.</b>  
-<a target="_blank" href="https://www.w3.org/WAI/standards-guidelines/wcag/">https://www.w3.org/WAI/standards-guidelines/wcag/</a>.  
-Acesso em: 10 nov. 2025.</p>
+  <!-- 3. Conteúdo Não Textual -->
+  <li>
+    <b>WCAG 2.2 – Critério 1.1.1 – Conteúdo Não Textual.</b>
+    Disponível em:
+    <a target="_blank" href="https://www.w3.org/TR/WCAG22/#non-text-content">
+      https://www.w3.org/TR/WCAG22/#non-text-content
+    </a>.
+    Acesso em: 15 nov. 2025.
+  </li>
 
-<p id="refWCAGCaption"><b>WCAG 2.2 – Critério 1.2.2 – Legendas (Pré-gravado).</b>  
-<a target="_blank" href="https://www.w3.org/WAI/standards-guidelines/wcag/">https://www.w3.org/WAI/standards-guidelines/wcag/</a>.  
-Acesso em: 10 nov. 2025.</p>
+  <!-- 4. Alternativa em Mídia / Audiodescrição ou Alternativa -->
+  <li>
+    <b>WCAG 2.2 – Critério 1.2.3 – Audiodescrição ou Alternativa para Mídia (Pré-gravada).</b>
+    Disponível em:
+    <a target="_blank" href="https://www.w3.org/TR/WCAG22/#audio-description-or-media-alternative-prerecorded">
+      https://www.w3.org/TR/WCAG22/#audio-description-or-media-alternative-prerecorded
+    </a>.
+    Acesso em: 10 nov. 2025.
+  </li>
 
-<p id="refWCAGADesc"><b>WCAG 2.2 – Critério 1.2.5 – Audiodescrição (Pré-gravada).</b>  
-<a target="_blank" href="https://www.w3.org/WAI/standards-guidelines/wcag/">https://www.w3.org/WAI/standards-guidelines/wcag/</a>.  
-Acesso em: 10 nov. 2025.</p>
+  <!-- 5. Legendas (Pré-gravado) -->
+  <li>
+    <b>WCAG 2.2 – Critério 1.2.2 – Legendas (Pré-gravado).</b>
+    Disponível em:
+    <a target="_blank" href="https://www.w3.org/TR/WCAG22/#captions-prerecorded">
+      https://www.w3.org/TR/WCAG22/#captions-prerecorded
+    </a>.
+    Acesso em: 10 nov. 2025.
+  </li>
+
+  <!-- 6. Audiodescrição (Pré-gravada) -->
+  <li>
+    <b>WCAG 2.2 – Critério 1.2.5 – Audiodescrição (Pré-gravada).</b>
+    Disponível em:
+    <a target="_blank" href="https://www.w3.org/TR/WCAG22/#audio-description-prerecorded">
+      https://www.w3.org/TR/WCAG22/#audio-description-prerecorded
+    </a>.
+    Acesso em: 10 nov. 2025.
+  </li>
+
+</ol>
+
 
 <hr>
 
