@@ -1,7 +1,7 @@
 
 <hr>
 
-<h2>Gestão de Projeto</h2>
+## Gestão de Projeto
 
 <p>
 Esta seção apresenta recomendações para integrar acessibilidade desde a fase inicial de um projeto,
@@ -9,7 +9,7 @@ passando pelo planejamento, definição de requisitos, gestão de cronograma e o
 É destinada a gestores de projeto, líderes técnicos, product owners, scrum masters, analistas de requisitos e stakeholders.
 </p>
 
-<h3>Por que é importante?</h3>
+###  Por que é importante?
 
 <p>
 A acessibilidade não deve ser tratada como etapa final ou opcional.
@@ -26,7 +26,7 @@ melhora a experiência de todos os usuários e garante conformidade com normas e
 
 <hr>
 
-<h3>1. Gestão Técnica</h3>
+## 1. Gestão Técnica
 
 <p>A elaboração de personas acessíveis assegura que diferentes necessidades
 sejam contempladas desde o início do projeto.</p>
@@ -64,7 +64,7 @@ sejam contempladas desde o início do projeto.</p>
 
 <hr>
 
-<h3>2. Conscientização</h3>
+## 2. Conscientização
 <p>A equipe deve compreender legislações, estatísticas e impacto social da acessibilidade.</p>
 
 <label class="criterio">
@@ -96,7 +96,7 @@ sejam contempladas desde o início do projeto.</p>
 
 <hr>
 
-<h3>3. Planejamento</h3>
+## 3. Planejamento
 <p>
 O plano de projeto deve incluir prazos, recursos, atividades e responsabilidades destinadas à acessibilidade.
 </p>
@@ -126,7 +126,8 @@ O plano de projeto deve incluir prazos, recursos, atividades e responsabilidades
 
 <hr><hr>
 
-<h2>Referências Bibliográficas</h2>
+
+## Referências Bibliográficas
 
 > <a id="Portaria-2007">1.</a> <strong>Portaria nº 3/2007 — Governo Federal.</strong> Dispõe sobre as atribuições do Comitê de Acessibilidade.
 > <br>Disponível em: <a target="_blank" href="https://www.gov.br/secretariageral/pt-br/estrutura/secretaria-executiva/secretaria-de-gestao-e-governanca/portaria3-2007">https://www.gov.br/secretariageral/pt-br/estrutura/secretaria-executiva/secretaria-de-gestao-e-governanca/portaria3-2007</a>

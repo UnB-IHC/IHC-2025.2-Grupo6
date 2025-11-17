@@ -1,13 +1,13 @@
 <hr>
 
-<h2>Geração de Conteúdo</h2>
+## Geração de Conteúdo
 
 <p>
 Esta seção apresenta diretrizes para criar conteúdos digitais acessíveis, como textos, imagens, descrições, vídeos, áudios, podcasts e publicações em redes sociais.
 É destinada a profissionais de comunicação, marketing, jornalismo, mídias sociais, redação, produção de conteúdo e UX writing.
 </p>
 
-<h3>Por que é importante?</h3>
+### Por que é importante?
 
 <p>
 A acessibilidade não depende apenas do código: o modo como a informação é escrita e organizada impacta diretamente na compreensão.
@@ -24,7 +24,7 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 <hr>
 
 
-<h3>1. Termos</h3>
+## 1. Termos
 <p>O uso correto da terminologia é essencial para respeito, clareza e precisão semântica.</p>
 
 <label class="criterio">
@@ -35,7 +35,7 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 
 <hr>
 
-<h3>2. Textos</h3>
+## 2. Textos
 <p>Os textos devem ser claros, diretos e estruturados para garantir compreensão por pessoas com diferentes perfis cognitivos.</p>
 
 <label class="criterio">
@@ -65,7 +65,7 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 
 <hr>
 
-<h3>3. Descrição de Imagens</h3>
+## 3. Descrição de Imagens
 <p>Imagens devem ser compreensíveis para usuários cegos ou com baixa visão, garantindo equivalência informacional.</p>
 
 <label class="criterio">
@@ -94,7 +94,7 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 
 <hr>
 
-<h3>4. Áudio e Vídeo</h3>
+## 4. Áudio e Vídeo
 <p>Conteúdos multimídia devem ser acessíveis para usuários com deficiência auditiva, visual ou cognitiva.</p>
 
 <label class="criterio">
@@ -129,7 +129,7 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 
 <hr>
 
-<h2>Referências Bibliográficas</h2>
+ ## Referências Bibliográficas
 
 > <a id="refWCAGALT">1.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. <strong>Critério de Sucesso 1.1.1 Conteúdo Não Textual (Nível A).</strong> 
 > <br>Disponível em: <a target="_blank" href="https://www.w3.org/TR/WCAG22/#non-text-content">https://www.w3.org/WAI/standards-guidelines/wcag/</a>. 
