@@ -124,59 +124,26 @@ O plano de projeto deve incluir prazos, recursos, atividades e responsabilidades
 
 <hr><hr>
 
-<h2>Referências Bibliograficas</h2>
+## Referências Bibliograficas
 
-<p id="Portaria-2007">
-[1] **Portaria nº 3/2007 — Governo Federal.** Dispõe sobre as atribuições do Comitê de Acessibilidade.
-<a target="_blank" href="https://www.gov.br/secretariageral/pt-br/estrutura/secretaria-executiva/secretaria-de-gestao-e-governanca/portaria3-2007">https://www.gov.br/secretariageral/pt-br/estrutura/secretaria-executiva/secretaria-de-gestao-e-governanca/portaria3-2007</a>
-</p>
+> <a id="1" href="">1.</a> **Portaria nº 3/2007 — Governo Federal.** Dispõe sobre as atribuições do Comitê de Acessibilidade. Disponível em: https://www.gov.br/secretariageral/pt-br/estrutura/secretaria-executiva/secretaria-de-gestao-e-governanca/portaria3-2007. Acesso em: 16 nov. 2025.
 
-<p id="ONU">
-[2] **ONU — Convenção sobre os Direitos das Pessoas com Deficiência.** <a target="_blank" href="https://www.un.org/disabilities/documents/convention/convoptprot-e.pdf">https://www.un.org/disabilities/documents/convention/convoptprot-e.pdf</a>
-</p>
+> <a id="2" href="">2.</a> **ONU — Convenção sobre os Direitos das Pessoas com Deficiência.** Disponível em: https://www.un.org/disabilities/documents/convention/convoptprot-e.pdf. Acesso em: 16 nov. 2025.
 
-<p id="GuiaUK-1.1">
-[3] DINIZ, V. et al. Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023). **Capítulo 1.1: Conscientização**.  
-Disponível em:  
-<a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf</a>
-</p>
+> <a id="3" href="">3.</a> DINIZ, V. et al. Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023). **Capítulo 1.1: Conscientização.** Disponível em: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf. Acesso em: 16 nov. 2025.
 
-<p id="GuiaUK-1.2">
-[4] DINIZ, V. et al. Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023). **Capítulo 1.2: Elaboração de Personas Acessíveis**.  
-Disponível em:  
-<a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf</a>
-</p>
+> <a id="4" href="">4.</a> DINIZ, V. et al. Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023). **Capítulo 1.2: Elaboração de Personas Acessíveis.** Disponível em: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf. Acesso em: 16 nov. 2025.
 
-<p id="GuiaUK-2.1">
-[5] DINIZ, V. et al. Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023). **Capítulo 2.1: Leis e regulamentações**.  
-Disponível em:  
-<a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf</a>
-</p>
+> <a id="5" href="">5.</a> DINIZ, V. et al. Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023). **Capítulo 2.1: Leis e regulamentações.** Disponível em: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf. Acesso em: 16 nov. 2025.
 
-<p id="GuiaUK-2.2">
-[6] DINIZ, V. et al. Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023). **Capítulo 2.2: Integração da acessibilidade na gestão**.  
-Disponível em:  
-<a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf</a>
-</p>
+> <a id="6" href="">6.</a> DINIZ, V. et al. Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023). **Capítulo 2.2: Integração da acessibilidade na gestão.** Disponível em: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf. Acesso em: 16 nov. 2025.
 
-<p id="WCAG-Geral">
-[7] W3C — Web Content Accessibility Guidelines (WCAG) 2.2. **Diretrizes Gerais (Nível A e AA)**. 
-Disponível em:  
-<a target="_blank" href="https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/">https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/</a>
-</p>
+> <a id="7" href="">7.</a> W3C — Web Content Accessibility Guidelines (WCAG) 2.2. **Diretrizes Gerais (Nível A e AA).** Disponível em: https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/. Acesso em: 16 nov. 2025.
 
-<p id="NBR-Geral">
-[8] ABNT NBR 17225:2025. **Acessibilidade em conteúdo e aplicações web – Requisitos**.  
-Disponível em:  
-<a target="_blank" href="https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf">https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf</a>
-</p>
+> <a id="8" href="">8.</a> ABNT NBR 17225:2025. **Acessibilidade em conteúdo e aplicações web – Requisitos.** Disponível em: https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf. Acesso em: 16 nov. 2025.
 
-<p id="NBR-4.2">
-[9] ABNT NBR 17225:2025. **Seção 4.2: Diretrizes e Requisitos**. 
-*Esta seção determina que a acessibilidade deve ser considerada em todas as etapas do projeto e do ciclo de vida do produto.*
-Disponível em:  
-<a target="_blank" href="https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf">https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf</a>
-</p>
+> <a id="9" href="">9.</a> ABNT NBR 17225:2025. **Seção 4.2: Diretrizes e Requisitos.** Esta seção determina que a acessibilidade deve ser considerada em todas as etapas do projeto e do ciclo de vida do produto. Disponível em: https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf. Acesso em: 16 nov. 2025.
+
 
 <hr>
 

@@ -126,69 +126,21 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 
 <hr>
 
-<h2>Referências Bibliográficas</h2>
+## Referências Bibliográficas
 
-<ol style="padding-left: 20px;">
 
-  <li>
-    <b>DINIZ, V. et al.</b> Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023).
-    Disponível em:
-    <a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">
-      https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf
-    </a>.
-    Acesso em: 14 nov. 2025.
-  </li>
 
-  <li>
-    <b>ABNT NBR 17225:2025.</b> Acessibilidade em Conteúdo e Aplicações Web.
-    Disponível em:
-    <a target="_blank" href="https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf">
-      https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf
-    </a>.
-    Acesso em: 15 nov. 2025.
-  </li>
+> <a id="1" href="">1.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 1.1.1 Conteúdo Não Textual (Nível A).** Disponível em: https://www.w3.org/TR/WCAG22/#non-text-content. Acesso em: 15 nov. 2025.
 
-  <!-- 3. Conteúdo Não Textual -->
-  <li>
-    <b>WCAG 2.2 – Critério 1.1.1 – Conteúdo Não Textual.</b>
-    Disponível em:
-    <a target="_blank" href="https://www.w3.org/TR/WCAG22/#non-text-content">
-      https://www.w3.org/TR/WCAG22/#non-text-content
-    </a>.
-    Acesso em: 15 nov. 2025.
-  </li>
+> <a id="2" href="">2.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 1.2.3 Audiodescrição ou Alternativa para Mídia (Pré-gravada) (Nível A).** Disponível em: https://www.w3.org/TR/WCAG22/#audio-description-or-media-alternative-prerecorded. Acesso em: 10 nov. 2025.
 
-  <!-- 4. Alternativa em Mídia / Audiodescrição ou Alternativa -->
-  <li>
-    <b>WCAG 2.2 – Critério 1.2.3 – Audiodescrição ou Alternativa para Mídia (Pré-gravada).</b>
-    Disponível em:
-    <a target="_blank" href="https://www.w3.org/TR/WCAG22/#audio-description-or-media-alternative-prerecorded">
-      https://www.w3.org/TR/WCAG22/#audio-description-or-media-alternative-prerecorded
-    </a>.
-    Acesso em: 10 nov. 2025.
-  </li>
+> <a id="3" href="">3.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 1.2.2 Legendas (Pré-gravado) (Nível A).** Disponível em: https://www.w3.org/TR/WCAG22/#captions-prerecorded. Acesso em: 10 nov. 2025.
 
-  <!-- 5. Legendas (Pré-gravado) -->
-  <li>
-    <b>WCAG 2.2 – Critério 1.2.2 – Legendas (Pré-gravado).</b>
-    Disponível em:
-    <a target="_blank" href="https://www.w3.org/TR/WCAG22/#captions-prerecorded">
-      https://www.w3.org/TR/WCAG22/#captions-prerecorded
-    </a>.
-    Acesso em: 10 nov. 2025.
-  </li>
+> <a id="4" href="">4.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 1.2.5 Audiodescrição (Pré-gravada) (Nível AA).** Disponível em: https://www.w3.org/TR/WCAG22/#audio-description-prerecorded. Acesso em: 10 nov. 2025.
 
-  <!-- 6. Audiodescrição (Pré-gravada) -->
-  <li>
-    <b>WCAG 2.2 – Critério 1.2.5 – Audiodescrição (Pré-gravada).</b>
-    Disponível em:
-    <a target="_blank" href="https://www.w3.org/TR/WCAG22/#audio-description-prerecorded">
-      https://www.w3.org/TR/WCAG22/#audio-description-prerecorded
-    </a>.
-    Acesso em: 10 nov. 2025.
-  </li>
+> <a id="UK" href=""></a> DINIZ, V. et al. **Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023).** Disponível em: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf. Acesso em: 14 nov. 2025.
 
-</ol>
+> <a id="NBR" href=""></a> ABNT NBR 17225:2025. **Acessibilidade em Conteúdo e Aplicações Web – Requisitos.** Disponível em: https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf. Acesso em: 15 nov. 2025.
 
 
 <hr>
