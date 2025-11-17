@@ -171,4 +171,13 @@ O plano de projeto deve incluir prazos, recursos, atividades e responsabilidades
 
 <hr>
 
+##  Histórico de Versão
+
+| Versão | Data | Descrição | Autor(es)| Revisor(es) |
+|--------|------|-----------|-----------|-------------|
+| 1.0 | 14/11/2025 | Criação dos critérios |[ Giovana Fontes ](https://github.com/GiovanaFontesS)  | [Isabella Choukaira](https://github.com/isabellachoukaira) | 
+| 1.1 | 16/11/2025 | Adição das Referências |[ Giovana Fontes ](https://github.com/GiovanaFontesS) | [Isabella Choukaira](https://github.com/isabellachoukaira) | 
+
+<hr>
+
 <script src="js/grafico_p2.js"></script>
