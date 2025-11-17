@@ -126,22 +126,34 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 
 <hr>
 
-## Referências Bibliográficas
 
+<hr>
 
+<h2>Referências Bibliográficas</h2>
 
-> <a id="1" href="">1.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 1.1.1 Conteúdo Não Textual (Nível A).** Disponível em: https://www.w3.org/TR/WCAG22/#non-text-content. Acesso em: 15 nov. 2025.
+> <a id="refWCAGALT">1.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. <strong>Critério de Sucesso 1.1.1 Conteúdo Não Textual (Nível A).</strong> 
+> <br>Disponível em: <a target="_blank" href="https://www.w3.org/TR/WCAG22/#non-text-content">https://www.w3.org/WAI/standards-guidelines/wcag/</a>. 
+> <br>Acesso em: 15 nov. 2025.
 
-> <a id="2" href="">2.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 1.2.3 Audiodescrição ou Alternativa para Mídia (Pré-gravada) (Nível A).** Disponível em: https://www.w3.org/TR/WCAG22/#audio-description-or-media-alternative-prerecorded. Acesso em: 10 nov. 2025.
+> <a id="refWCAGADesc">2.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. <strong>Critério de Sucesso 1.2.5 Audiodescrição (Pré-gravada) (Nível AA).</strong>
+> <br>Disponível em: <a target="_blank" href="https://www.w3.org/TR/WCAG22/#audio-description-prerecorded">https://www.w3.org/WAI/standards-guidelines/wcag/</a>.
+> <br>Acesso em: 10 nov. 2025.
 
-> <a id="3" href="">3.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 1.2.2 Legendas (Pré-gravado) (Nível A).** Disponível em: https://www.w3.org/TR/WCAG22/#captions-prerecorded. Acesso em: 10 nov. 2025.
+> <a id="refWCAGCaption">3.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. <strong>Critério de Sucesso 1.2.2 Legendas (Pré-gravado) (Nível A).</strong>
+> <br>Disponível em: <a target="_blank" href="https://www.w3.org/TR/WCAG22/#audio-description-prerecorded">https://www.w3.org/WAI/standards-guidelines/wcag/</a>.
+> <br>Acesso em: 10 nov. 2025.
 
-> <a id="4" href="">4.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. **Critério de Sucesso 1.2.5 Audiodescrição (Pré-gravada) (Nível AA).** Disponível em: https://www.w3.org/TR/WCAG22/#audio-description-prerecorded. Acesso em: 10 nov. 2025.
+> <a id="refWCAG1">4.</a> Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. <strong>Critério de Sucesso 1.3.1 Informação e Relacionamentos (Nível A).</strong>
+> <br>Disponível em: <a target="_blank" href="https://www.w3.org/TR/WCAG22/#info-and-relationships">https://www.w3.org/WAI/standards-guidelines/wcag/</a>.
+> <br>Acesso em: 10 nov. 2025.
 
-> <a id="UK" href=""></a> DINIZ, V. et al. **Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023).** Disponível em: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf. Acesso em: 14 nov. 2025.
+> <a id="refUK">5.</a> DINIZ, V. et al. <strong>Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023).</strong> 
+> <br>Disponível em: <a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf</a>. 
+> <br>Acesso em: 14 nov. 2025.
 
-> <a id="NBR" href=""></a> ABNT NBR 17225:2025. **Acessibilidade em Conteúdo e Aplicações Web – Requisitos.** Disponível em: https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf. Acesso em: 15 nov. 2025.
-
+> <a id="refNBR">6.</a> ABNT NBR 17225:2025. <strong>Acessibilidade em Conteúdo e Aplicações Web – Requisitos.</strong> 
+> <br>Disponível em: <a target="_blank" href="https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf">https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf</a>. 
+> <br>Acesso em: 15 nov. 2025.
 
 <hr>
 
