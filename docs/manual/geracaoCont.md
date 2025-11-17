@@ -28,7 +28,7 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 <p>O uso correto da terminologia é essencial para respeito, clareza e precisão semântica.</p>
 
 <label class="criterio">
-  <input type="checkbox" data-group="conteudo">
+  <input type="checkbox" data-group="gestao">
   Utilização adequada do termo “pessoas com deficiência (PCD)” e especificações como visual, física, múltipla etc.
   [<a href="#refUK">Guia UK-BR – Cap. Linguagem</a>]
 </label>
@@ -39,25 +39,25 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 <p>Os textos devem ser claros, diretos e estruturados para garantir compreensão por pessoas com diferentes perfis cognitivos.</p>
 
 <label class="criterio">
-  <input type="checkbox" data-group="conteudo">
+  <input type="checkbox" data-group="gestao">
   Uso de linguagem clara, objetiva e não ambígua.
   [<a href="#refUK">Guia UK-BR – Cap. Linguagem</a>]
 </label>
 
 <label class="criterio">
-  <input type="checkbox" data-group="conteudo">
+  <input type="checkbox" data-group="gestao">
   Frases com média de 15–20 palavras.
   [<a href="#refUK">Guia UK-BR – Cap. Linguagem</a>]
 </label>
 
 <label class="criterio">
-  <input type="checkbox" data-group="conteudo">
+  <input type="checkbox" data-group="gestao">
   Preferência por orações em ordem direta (Sujeito + Verbo + Complemento).
   [<a href="#refUK">Guia UK-BR – Cap. Linguagem</a>]
 </label>
 
 <label class="criterio">
-  <input type="checkbox" data-group="conteudo">
+  <input type="checkbox" data-group="gestao">
   Termos com significado especial usam marcação semântica adequada.
   [<a href="#refNBR">NBR 5.12.8</a>]
   [<a href="#refWCAG1">WCAG 1.3.1</a>]
@@ -69,25 +69,25 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 <p>Imagens devem ser compreensíveis para usuários cegos ou com baixa visão, garantindo equivalência informacional.</p>
 
 <label class="criterio">
-  <input type="checkbox" data-group="conteudo">
+  <input type="checkbox" data-group="gestao">
   A descrição identifica claramente o tipo e o conteúdo principal da imagem.
   [<a href="#refUK">Guia UK-BR – Cap. Imagens</a>]
 </label>
 
 <label class="criterio">
-  <input type="checkbox" data-group="conteudo">
+  <input type="checkbox" data-group="gestao">
   Imagens com ação possuem descrição da ação representada.
   [<a href="#refUK">Guia UK-BR – Cap. Imagens</a>]
 </label>
 
 <label class="criterio">
-  <input type="checkbox" data-group="conteudo">
+  <input type="checkbox" data-group="gestao">
   Imagens complexas possuem descrição longa separada.
   [<a href="#refUK">Guia UK-BR – Cap. Imagens</a>]
 </label>
 
 <label class="criterio">
-  <input type="checkbox" data-group="conteudo">
+  <input type="checkbox" data-group="gestao">
   Alternativas textuais são curtas, claras e significativas.
   [<a href="#refWCAGALT">WCAG 1.1.1</a>]
 </label>
@@ -98,27 +98,27 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 <p>Conteúdos multimídia devem ser acessíveis para usuários com deficiência auditiva, visual ou cognitiva.</p>
 
 <label class="criterio">
-  <input type="checkbox" data-group="conteudo">
+  <input type="checkbox" data-group="gestao">
   Vídeos incluem descrição breve do contexto visual.
   [<a href="#refUK">Guia UK-BR – Cap. Multimídia</a>]
 </label>
 
 <label class="criterio">
-  <input type="checkbox" data-group="conteudo">
+  <input type="checkbox" data-group="gestao">
   Vídeos oferecem legendas.
   [<a href="#refUK">Guia UK-BR – Cap. Multimídia</a>]
   [<a href="#refWCAGCaption">WCAG 1.2.2</a>]
 </label>
 
 <label class="criterio">
-  <input type="checkbox" data-group="conteudo">
+  <input type="checkbox" data-group="gestao">
   Audiodescrição é fornecida quando necessária.
   [<a href="#refNBR">NBR 5.14.4</a>]
   [<a href="#refWCAGADesc">WCAG 1.2.5</a>]
 </label>
 
 <label class="criterio">
-  <input type="checkbox" data-group="conteudo">
+  <input type="checkbox" data-group="gestao">
   Sons relevantes são legendados.
   [<a href="#refNBR">NBR 5.14.2</a>]
   [<a href="#refWCAGCaption">WCAG 1.2.2</a>]
