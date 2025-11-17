@@ -15,13 +15,14 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 <hr>
 
 <div style="text-align:center; margin-bottom: 20px;">
-    <h3>Progresso Geral</h3>
-    <canvas id="grafico_conteudo" width="220" height="220"></canvas>
+    <h3>Progresso Geral</h3>
+    <canvas id="grafico_conteudo" width="220" height="220"></canvas>
 </div>
 
 <hr>
 
-<h2>Geração de Conteúdo </h2>
+<h2>Checklist – Geração de Conteúdo Acessível</h2>
+
 <p>
 Os critérios abaixo foram elaborados com base no 
 <b><a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">
@@ -29,7 +30,7 @@ Guia de Boas Práticas UK-BR (2023)</a></b>,
 na <b><a target="_blank" href="https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf">
 NBR 17225:2025</a></b> 
 e nas <b><a target="_blank" href="https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/">
-WCAG 2.2</a></b>.  
+WCAG 2.2</a></b>. Cada item está acompanhado de sua respectiva referência.  
 </p>
 
 <hr>
@@ -164,5 +165,5 @@ Acesso em: 10 nov. 2025.</p>
 <a target="_blank" href="https://www.w3.org/WAI/standards-guidelines/wcag/">https://www.w3.org/WAI/standards-guidelines/wcag/</a>.  
 Acesso em: 10 nov. 2025.</p>
 
-
+<hr>
 <script src="js/grafico_p2.js"></script>
