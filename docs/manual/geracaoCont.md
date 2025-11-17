@@ -1,7 +1,5 @@
 <hr>
 
-## Geração de Conteúdo
-
 <p>
 Esta seção apresenta diretrizes para criar conteúdos digitais acessíveis, como textos, imagens, descrições, vídeos, áudios, podcasts e publicações em redes sociais.
 É destinada a profissionais de comunicação, marketing, jornalismo, mídias sociais, redação, produção de conteúdo e UX writing.

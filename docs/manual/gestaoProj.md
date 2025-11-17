@@ -1,8 +1,6 @@
 
 <hr>
 
-## Gestão de Projeto
-
 <p>
 Esta seção apresenta recomendações para integrar acessibilidade desde a fase inicial de um projeto,
 passando pelo planejamento, definição de requisitos, gestão de cronograma e organização das equipes.
