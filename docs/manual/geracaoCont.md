@@ -17,8 +17,8 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 <hr>
 
 <div style="text-align:center; margin-bottom: 20px;">
-    <h3>Progresso Geral</h3>
-    <canvas id="grafico_conteudo" width="220" height="220"></canvas>
+    <h3>Progresso Geral</h3>
+    <canvas id="grafico_gestao" width="220" height="220"></canvas>
 </div>
 
 <hr>
@@ -153,5 +153,7 @@ Acesso em: 10 nov. 2025.</p>
 <p id="refWCAGADesc"><b>WCAG 2.2 – Critério 1.2.5 – Audiodescrição (Pré-gravada).</b>  
 <a target="_blank" href="https://www.w3.org/WAI/standards-guidelines/wcag/">https://www.w3.org/WAI/standards-guidelines/wcag/</a>.  
 Acesso em: 10 nov. 2025.</p>
+
+<hr>
 
 <script src="js/grafico_p2.js"></script>
