@@ -15,23 +15,14 @@ Descrever imagens, usar linguagem clara e oferecer alternativas acessíveis gara
 <hr>
 
 <div style="text-align:center; margin-bottom: 20px;">
-    <h3>Progresso Geral</h3>
-    <canvas id="grafico_conteudo" width="220" height="220"></canvas>
+    <h3>Progresso Geral</h3>
+    <canvas id="grafico_conteudo" width="220" height="220"></canvas>
 </div>
 
 <hr>
 
 <h2>Checklist – Geração de Conteúdo Acessível</h2>
-
-<p>
-Os critérios abaixo foram elaborados com base no 
-<b><a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">
-Guia de Boas Práticas UK-BR (2023)</a></b>, 
-na <b><a target="_blank" href="https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf">
-NBR 17225:2025</a></b> 
-e nas <b><a target="_blank" href="https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/">
-WCAG 2.2</a></b>. Cada item está acompanhado de sua respectiva referência.  
-</p>
+<p>Os critérios abaixo foram elaborados com base no <b>Guia de Boas Práticas UK-BR (2023)</b>, na <b>NBR 17225:2025</b> e nas <b>WCAG 2.2</b>. Cada item está acompanhado de sua respectiva referência.</p>
 
 <hr>
 
@@ -142,16 +133,16 @@ WCAG 2.2</a></b>. Cada item está acompanhado de sua respectiva referência.  
 <p id="refUK"><b>DINIZ, V. et al.</b> Guia de Boas Práticas para Acessibilidade Digital — UK-BR (2023).  
 Disponível em: 
 <a target="_blank" href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf">https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf</a>.  
-Acesso em: 14 de nov. 2025.</p>
+Acesso em: 09 mai. 2024.</p>
 
 <p id="refNBR"><b>ABNT NBR 17225:2025.</b> Acessibilidade em Conteúdo e Aplicações Web.  
 Disponível em: 
 <a target="_blank" href="https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf">https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf</a>.  
-Acesso em: 15 nov. 2025.</p>
+Acesso em: 23 jun. 2025.</p>
 
 <p id="refWCAGALT"><b>WCAG 2.2 – Critério 1.1.1 – Conteúdo Não Textual.</b>  
 <a target="_blank" href="https://www.w3.org/WAI/standards-guidelines/wcag/">https://www.w3.org/WAI/standards-guidelines/wcag/</a>.  
-Acesso em: 15 nov. 2025.</p>
+Acesso em: 10 nov. 2025.</p>
 
 <p id="refWCAG1"><b>WCAG 2.2 – Critério 1.3.1 – Informação e Relacionamentos.</b>  
 <a target="_blank" href="https://www.w3.org/WAI/standards-guidelines/wcag/">https://www.w3.org/WAI/standards-guidelines/wcag/</a>.  
@@ -165,5 +156,5 @@ Acesso em: 10 nov. 2025.</p>
 <a target="_blank" href="https://www.w3.org/WAI/standards-guidelines/wcag/">https://www.w3.org/WAI/standards-guidelines/wcag/</a>.  
 Acesso em: 10 nov. 2025.</p>
 
-<hr>
+
 <script src="js/grafico_p2.js"></script>
