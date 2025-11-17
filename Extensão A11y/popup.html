@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A11Y Vision - Análise de Acessibilidade</title>
+    <style>
+        body {
+            width: 400px;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .check-item {
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 5px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .pass {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        .fail {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+        .check-name {
+            font-weight: bold;
+        }
+        .result {
+            font-size: 0.9em;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        #scanBtn {
+            background-color: #007bff;
+            color: white;
+        }
+        #heatmapBtn {
+            background-color: #28a745;
+            color: white;
+        }
+        #detailsBtn {
+            background-color: #6c757d;
+            color: white;
+        }
+        #colorSuggestions {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        .suggestion-item {
+            margin: 10px 0;
+            padding: 10px;
+            background: #f8f9fa;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h2>A11Y Vision</h2>
+        <p>Analisador de Contraste WCAG</p>
+    </div>
+
+    <button id="scanBtn">Analisar Página</button>
+    <button id="heatmapBtn">Mapa de Calor de Contraste</button>
+
+    <div id="results">
+        <div class="check-item" id="contrastCheck">
+            <span class="check-name">Contraste de Cores</span>
+            <span class="result">-</span>
+        </div>
+        <div class="check-item" id="focusCheck">
+            <span class="check-name">Indicadores de Foco</span>
+            <span class="result">-</span>
+        </div>
+        <div class="check-item" id="headingsCheck">
+            <span class="check-name">Estrutura de Cabeçalhos</span>
+            <span class="result">-</span>
+        </div>
+        <div class="check-item" id="keyboardCheck">
+            <span class="check-name">Navegação por Teclado</span>
+            <span class="result">-</span>
+        </div>
+    </div>
+
+    <div id="pageInfo" style="margin: 10px 0; padding: 10px; background: #e9ecef; border-radius: 5px; font-size: 0.9em;"></div>
+
+    <div id="colorSuggestions"></div>
+
+    <button id="detailsBtn">Ver Relatório Completo</button>
+
+    <script src="popup.js"></script>
+</body>
+</html>

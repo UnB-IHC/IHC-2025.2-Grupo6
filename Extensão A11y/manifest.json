@@ -1,0 +1,19 @@
+{
+    "name": "A11Y Vision",
+    "description": "Uma extensão para análise de acessibilidade com foco em contraste WCAG",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting", "storage"],
+    "host_permissions": ["http://*/*", "https://*/*"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Analisar Acessibilidade"
+    },
+    "web_accessible_resources": [{
+        "resources": ["heatmap.html", "heatmap.js"],
+        "matches": ["<all_urls>"]
+    }],
+    "content_security_policy": {
+        "extension_pages": "script-src 'self'; object-src 'self'"
+    }
+}
