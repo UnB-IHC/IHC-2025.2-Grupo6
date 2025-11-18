@@ -98,7 +98,7 @@ O cálculo segue a fórmula oficial:
 ##  Capturas de Tela
 
 ###  Popup da extensão
-![Popup da Extensão](/Extensão%20A11y/icons/popup.png)
+![Popup da Extensão](/Extensão%20A11y/icons/popup2.png)
 
 ###  Tela de analise de página
 ![Popup da Extensão](/Extensão%20A11y/icons/resultado.png)
