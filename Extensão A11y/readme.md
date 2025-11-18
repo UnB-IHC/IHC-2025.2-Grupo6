@@ -107,3 +107,8 @@ O cálculo segue a fórmula oficial:
 ###  Relatorio
 ![Tela de relatorio](icons/relatorio.png)
 ![Tela de relatorio](icons/relatorio2.png)
+
+##  Conclusão
+
+Esta extensão foi desenvolvida com o objetivo de facilitar a verificação de critérios de acessibilidade diretamente no navegador, tornando o processo mais rápido, claro e acessível para desenvolvedores.  
+Espero que ela possa ajudar pessoas e equipes a construírem interfaces mais inclusivas e alinhadas às boas práticas da WCAG.
