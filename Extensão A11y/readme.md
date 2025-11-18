@@ -93,7 +93,7 @@ O cálculo segue a fórmula oficial:
 ### **Aprovado se:**
 ```contraste >= 4.5```
 
-## 📸 Capturas de Tela
+##  Capturas de Tela
 
 ###  Popup da extensão
 ![Popup da Extensão](icons/popup2.png)
