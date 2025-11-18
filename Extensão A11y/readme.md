@@ -92,3 +92,18 @@ O cálculo segue a fórmula oficial:
 
 ### **Aprovado se:**
 ```contraste >= 4.5```
+
+## 📸 Capturas de Tela
+
+###  Popup da extensão
+![Popup da Extensão](icons/popup2.png)
+
+###  Tela de analise de página
+![Tela de Resultados](icons/resultado.png)
+
+###  Mapa de contraste 
+![Tela de contraste](icons/mapa.png)
+
+###  Relatorio
+![Tela de relatorio](icons/relatorio.png)
+![Tela de relatorio](icons/relatorio2.png)
